@@ -15,26 +15,31 @@ for name in restaurants:
     data['Review Date'] = pandas.to_datetime(data['Review Date'])
     print(name)
 
+    #Flood Event #1
     FE1_Prior = data[(data['Review Date'] <= '2008-09-13') & (data['Review Date'] > '2008-06-13')]
     FE1_Prior_Reviews = list(FE1_Prior.Review)
     FE1_Post = data[(data['Review Date'] <= '2008-12-13') & (data['Review Date'] > '2008-09-13')]
     FE1_Post_Reviews = list(FE1_Prior.Review)
 
+    #Flood Event #2
     FE2_Prior = data[(data['Review Date'] <= '2015-05-25') & (data['Review Date'] > '2015-02-25')]
     FE2_Prior_Reviews = list(FE2_Prior.Review)
     FE2_Post = data[(data['Review Date'] <= '2015-08-25') & (data['Review Date'] > '2015-05-25')]
     FE2_Post_Reviews = list(FE2_Post.Review)
 
+    #Flood Event #3
     FE3_Prior = data[(data['Review Date'] <= '2016-04-18') & (data['Review Date'] > '2016-01-18')]
     FE3_Prior_Reviews = list(FE3_Prior.Review)
     FE3_Post = data[(data['Review Date'] <= '2016-07-18') & (data['Review Date'] > '2016-04-18')]
     FE3_Post_Reviews = list(FE3_Post.Review)
 
+    #Flood Event #4
     FE4_Prior = data[(data['Review Date'] <= '2016-08-14') & (data['Review Date'] > '2016-05-14')]
     FE4_Prior_Reviews = list(FE4_Prior.Review)
     FE4_Post = data[(data['Review Date'] <= '2016-11-26') & (data['Review Date'] > '2016-08-14')]
     FE4_Post_Reviews = list(FE4_Post.Review)
 
+    #Flood Event #5
     FE5_Prior = data[(data['Review Date'] <= '2017-08-17') & (data['Review Date'] > '2017-05-17')]
     FE5_Prior_Reviews = list(FE5_Prior.Review)
     FE5_Post = data[(data['Review Date'] <= '2017-11-27') & (data['Review Date'] > '2016-08-17')]
