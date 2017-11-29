@@ -6,8 +6,10 @@ from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
 from gensim import corpora, models
 import gensim
+from gensim.corpora import Dictionary, MmCorpus
+import pyLDAvis
 
-restaurants = ["Frenchys.csv" , "Tonys.csv", "BurgerPark.csv", "Dot.csv", "Demeris.csv", "Doyles.csv", "Molinas.csv", "Cleburne.csv", "BBQInn.csv", "Brennans.csv", "Lankford.csv", "Christies.csv", "Yale.csv", "MytiBurger.csv", "ElPatio.csv", "Gaidos.csv",
+restaurants = ["Frenchys.csv", "Tonys.csv", "BurgerPark.csv", "Dot.csv", "Demeris.csv", "Doyles.csv", "Molinas.csv", "Cleburne.csv", "BBQInn.csv", "Brennans.csv", "Lankford.csv", "Christies.csv", "Yale.csv", "MytiBurger.csv", "ElPatio.csv", "Gaidos.csv",
 "Spanish.csv", "Houstons.csv", "Pizzitolas.csv", "Brenners.csv", "Avalon.csv"]
 
 for name in restaurants:
@@ -76,10 +78,16 @@ for name in restaurants:
 
         dictionary = corpora.Dictionary(Review_Stopped)
         corpus = [dictionary.doc2bow(text) for text in Review_Stopped]
+        #MmCorpus.serialize('reviews.mm', corpus)
+        #dictionary.save('reviews.dict')
 
         print(MasterReviewListString[labelCounter])
         labelCounter += 1
 
+
         if len(dictionary) > 0:
-            ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=2, id2word = dictionary, passes=20)
-            print(ldamodel.print_topics(num_topics=2, num_words=4))
+            ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=5, id2word = dictionary, passes=20)
+            print(ldamodel.print_topics(num_topics=5, num_words=4))
+            #import pyLDAvis.gensim
+            #vis = pyLDAvis.gensim.prepare(ldamodel, corpus, dictionary)
+            #pyLDAvis.display(vis)

@@ -1,0 +1,442 @@
+Frenchys.csv
+FE1_Prior_Reviews
+[(0, '0.006*"chicken" + 0.006*"im" + 0.006*"just" + 0.005*"good"'), (1, '0.006*"chicken" + 0.006*"im" + 0.006*"fried" + 0.006*"just"'), (2, '0.026*"im" + 0.026*"chicken" + 0.018*"fried" + 0.018*"just"'), (3, '0.058*"place" + 0.044*"2" + 0.030*"houston" + 0.030*"chicken"'), (4, '0.037*"frenchys" + 0.037*"fried" + 0.037*"chicken" + 0.020*"wait"')]
+FE1_Post_Reviews
+[(0, '0.006*"place" + 0.006*"chicken" + 0.006*"2" + 0.006*"just"'), (1, '0.037*"cant" + 0.037*"frenchys" + 0.037*"ive" + 0.037*"houston"'), (2, '0.006*"chicken" + 0.006*"im" + 0.006*"just" + 0.006*"good"'), (3, '0.053*"chicken" + 0.053*"place" + 0.040*"2" + 0.027*"frenchys"'), (4, '0.034*"chicken" + 0.028*"im" + 0.023*"fried" + 0.023*"just"')]
+FE2_Prior_Reviews
+[(0, '0.017*"order" + 0.014*"just" + 0.014*"tenders" + 0.011*"wings"'), (1, '0.020*"go" + 0.011*"open" + 0.011*"seasoned" + 0.011*"meat"'), (2, '0.021*"im" + 0.021*"chicken" + 0.018*"just" + 0.014*"fried"'), (3, '0.025*"chicken" + 0.025*"good" + 0.015*"fried" + 0.015*"will"'), (4, '0.025*"chicken" + 0.025*"frenchys" + 0.022*"place" + 0.022*"houston"')]
+FE2_Post_Reviews
+[(0, '0.038*"chicken" + 0.034*"place" + 0.030*"2" + 0.026*"go"'), (1, '0.021*"like" + 0.018*"ive" + 0.018*"n" + 0.017*"houston"'), (2, '0.016*"thru" + 0.016*"chicken" + 0.016*"ordered" + 0.016*"instead"'), (3, '0.019*"chicken" + 0.012*"will" + 0.012*"fries" + 0.012*"just"'), (4, '0.029*"chicken" + 0.022*"im" + 0.020*"fried" + 0.018*"good"')]
+FE3_Prior_Reviews
+[(0, '0.020*"food" + 0.017*"frenchys" + 0.015*"like" + 0.015*"n"'), (1, '0.016*"just" + 0.014*"fries" + 0.014*"chicken" + 0.014*"wings"'), (2, '0.022*"chicken" + 0.017*"good" + 0.013*"biscuit" + 0.013*"fried"'), (3, '0.028*"chicken" + 0.023*"im" + 0.017*"fried" + 0.017*"just"'), (4, '0.023*"houston" + 0.023*"chicken" + 0.022*"place" + 0.017*"2"')]
+FE3_Post_Reviews
+[(0, '0.029*"chicken" + 0.020*"fries" + 0.013*"little" + 0.011*"rice"'), (1, '0.028*"frenchys" + 0.020*"chicken" + 0.018*"go" + 0.018*"cant"'), (2, '0.023*"chicken" + 0.017*"place" + 0.016*"food" + 0.009*"2"'), (3, '0.021*"chicken" + 0.015*"just" + 0.014*"im" + 0.011*"fried"'), (4, '0.016*"fried" + 0.016*"food" + 0.013*"fries" + 0.013*"good"')]
+FE4_Prior_Reviews
+[(0, '0.031*"chicken" + 0.023*"fried" + 0.019*"good" + 0.014*"little"'), (1, '0.026*"chicken" + 0.017*"food" + 0.012*"service" + 0.012*"location"'), (2, '0.025*"place" + 0.022*"chicken" + 0.022*"2" + 0.013*"houston"'), (3, '0.017*"food" + 0.014*"chicken" + 0.014*"good" + 0.010*"fries"'), (4, '0.021*"chicken" + 0.019*"frenchys" + 0.009*"go" + 0.009*"ive"')]
+FE4_Post_Reviews
+[(0, '0.030*"chicken" + 0.019*"place" + 0.015*"great" + 0.013*"2"'), (1, '0.040*"chicken" + 0.018*"frenchys" + 0.016*"fried" + 0.012*"good"'), (2, '0.023*"chicken" + 0.012*"like" + 0.012*"good" + 0.009*"super"'), (3, '0.024*"chicken" + 0.015*"fries" + 0.015*"fried" + 0.014*"im"'), (4, '0.019*"chicken" + 0.016*"food" + 0.012*"time" + 0.012*"wings"')]
+FE5_Prior_Reviews
+[(0, '0.023*"food" + 0.014*"place" + 0.013*"chicken" + 0.012*"dirty"'), (1, '0.032*"chicken" + 0.017*"fried" + 0.014*"good" + 0.013*"frenchys"'), (2, '0.035*"chicken" + 0.019*"fried" + 0.015*"fries" + 0.013*"good"'), (3, '0.023*"chicken" + 0.012*"good" + 0.010*"staff" + 0.010*"frenchys"'), (4, '0.021*"chicken" + 0.017*"houston" + 0.016*"like" + 0.013*"frenchys"')]
+FE5_Post_Reviews
+[(0, '0.031*"chicken" + 0.017*"good" + 0.015*"super" + 0.010*"staff"'), (1, '0.027*"chicken" + 0.018*"good" + 0.016*"frenchys" + 0.010*"food"'), (2, '0.031*"chicken" + 0.017*"fries" + 0.013*"place" + 0.011*"little"'), (3, '0.030*"chicken" + 0.016*"frenchys" + 0.015*"fried" + 0.013*"just"'), (4, '0.033*"chicken" + 0.008*"houston" + 0.008*"always" + 0.006*"wait"')]
+Frenchys.csv
+FE1_Prior_Reviews
+[(0, '0.037*"chicken" + 0.028*"fried" + 0.023*"im" + 0.019*"just"'), (1, '0.058*"place" + 0.044*"2" + 0.030*"chicken" + 0.030*"great"'), (2, '0.029*"frenchys" + 0.029*"cant" + 0.029*"ive" + 0.029*"houston"'), (3, '0.006*"im" + 0.006*"chicken" + 0.006*"fried" + 0.006*"just"'), (4, '0.005*"chicken" + 0.005*"just" + 0.005*"im" + 0.005*"fried"')]
+FE1_Post_Reviews
+[(0, '0.006*"chicken" + 0.006*"frenchys" + 0.006*"fried" + 0.006*"back"'), (1, '0.051*"chicken" + 0.051*"frenchys" + 0.051*"fried" + 0.027*"wait"'), (2, '0.028*"im" + 0.028*"chicken" + 0.019*"just" + 0.019*"fried"'), (3, '0.076*"place" + 0.057*"2" + 0.039*"houston" + 0.039*"chicken"'), (4, '0.006*"im" + 0.006*"frenchys" + 0.006*"chicken" + 0.006*"ive"')]
+FE2_Prior_Reviews
+[(0, '0.024*"chicken" + 0.019*"just" + 0.016*"im" + 0.013*"fried"'), (1, '0.016*"good" + 0.016*"go" + 0.009*"fried" + 0.009*"ive"'), (2, '0.028*"frenchys" + 0.028*"houston" + 0.028*"chicken" + 0.028*"place"'), (3, '0.002*"chicken" + 0.002*"good" + 0.002*"back" + 0.002*"fried"'), (4, '0.018*"like" + 0.015*"food" + 0.015*"n" + 0.013*"chicken"')]
+FE2_Post_Reviews
+[(0, '0.017*"chicken" + 0.017*"large" + 0.017*"long" + 0.017*"sides"'), (1, '0.016*"order" + 0.013*"just" + 0.013*"chicken" + 0.013*"tenders"'), (2, '0.029*"houston" + 0.028*"chicken" + 0.028*"frenchys" + 0.025*"go"'), (3, '0.024*"chicken" + 0.017*"im" + 0.016*"just" + 0.016*"fried"'), (4, '0.018*"ordered" + 0.018*"instead" + 0.012*"thru" + 0.012*"food"')]
+FE3_Prior_Reviews
+[(0, '0.034*"chicken" + 0.020*"fried" + 0.014*"place" + 0.013*"im"'), (1, '0.014*"order" + 0.014*"tenders" + 0.011*"just" + 0.011*"drive"'), (2, '0.027*"food" + 0.016*"soda" + 0.011*"wings" + 0.011*"fast"'), (3, '0.021*"frenchys" + 0.015*"houston" + 0.015*"cant" + 0.015*"like"'), (4, '0.017*"chicken" + 0.015*"food" + 0.015*"good" + 0.014*"like"')]
+FE3_Post_Reviews
+[(0, '0.033*"chicken" + 0.023*"fries" + 0.020*"fried" + 0.016*"place"'), (1, '0.023*"food" + 0.012*"like" + 0.012*"n" + 0.010*"wings"'), (2, '0.030*"chicken" + 0.013*"time" + 0.012*"wings" + 0.010*"good"'), (3, '0.023*"chicken" + 0.017*"im" + 0.015*"good" + 0.013*"just"'), (4, '0.015*"frenchys" + 0.015*"sauce" + 0.010*"hot" + 0.010*"rude"')]
+FE4_Prior_Reviews
+[(0, '0.022*"chicken" + 0.018*"place" + 0.014*"good" + 0.012*"2"'), (1, '0.031*"chicken" + 0.017*"fried" + 0.015*"im" + 0.012*"just"'), (2, '0.019*"frenchys" + 0.013*"ive" + 0.013*"houston" + 0.013*"cant"'), (3, '0.027*"chicken" + 0.020*"sauce" + 0.014*"hot" + 0.014*"little"'), (4, '0.020*"chicken" + 0.014*"food" + 0.013*"fries" + 0.013*"frenchys"')]
+FE4_Post_Reviews
+[(0, '0.031*"chicken" + 0.020*"place" + 0.016*"food" + 0.012*"2"'), (1, '0.017*"chicken" + 0.012*"im" + 0.009*"like" + 0.009*"frenchys"'), (2, '0.028*"chicken" + 0.015*"just" + 0.012*"fried" + 0.012*"im"'), (3, '0.027*"chicken" + 0.017*"good" + 0.015*"place" + 0.012*"like"'), (4, '0.031*"chicken" + 0.026*"fried" + 0.023*"fries" + 0.018*"frenchys"')]
+FE5_Prior_Reviews
+[(0, '0.028*"chicken" + 0.021*"good" + 0.014*"fried" + 0.012*"just"'), (1, '0.023*"food" + 0.019*"chicken" + 0.016*"place" + 0.011*"like"'), (2, '0.022*"chicken" + 0.022*"frenchys" + 0.017*"fried" + 0.017*"cant"'), (3, '0.017*"chicken" + 0.012*"frenchys" + 0.008*"order" + 0.008*"tenders"'), (4, '0.036*"chicken" + 0.014*"fries" + 0.013*"fried" + 0.012*"little"')]
+FE5_Post_Reviews
+[(0, '0.041*"chicken" + 0.015*"frenchys" + 0.015*"fries" + 0.015*"fried"'), (1, '0.014*"like" + 0.012*"chicken" + 0.012*"food" + 0.009*"just"'), (2, '0.028*"chicken" + 0.012*"good" + 0.012*"just" + 0.010*"didnt"'), (3, '0.020*"chicken" + 0.012*"frenchys" + 0.012*"good" + 0.011*"place"'), (4, '0.042*"chicken" + 0.021*"good" + 0.018*"fried" + 0.016*"place"')]
+Tonys.csv
+FE1_Prior_Reviews
+[(0, '0.004*"souffle" + 0.004*"also" + 0.004*"ordered" + 0.004*"food"'), (1, '0.025*"ive" + 0.017*"service" + 0.017*"best" + 0.017*"can"'), (2, '0.016*"boyfriend" + 0.016*"night" + 0.016*"ordered" + 0.016*"also"'), (3, '0.004*"food" + 0.004*"souffle" + 0.004*"service" + 0.004*"tonys"'), (4, '0.017*"dessert" + 0.017*"tonys" + 0.017*"souffle" + 0.017*"dining"')]
+FE1_Post_Reviews
+[(0, '0.019*"dessert" + 0.019*"tonys" + 0.019*"souffle" + 0.019*"dining"'), (1, '0.018*"also" + 0.018*"ordered" + 0.018*"boyfriend" + 0.018*"birthday"'), (2, '0.031*"ive" + 0.021*"service" + 0.021*"best" + 0.021*"can"'), (3, '0.004*"ive" + 0.004*"tonys" + 0.004*"souffle" + 0.004*"service"'), (4, '0.004*"service" + 0.004*"souffle" + 0.004*"ive" + 0.004*"food"')]
+FE2_Prior_Reviews
+[(0, '0.002*"service" + 0.002*"ive" + 0.002*"tonys" + 0.002*"best"'), (1, '0.016*"dining" + 0.016*"tonys" + 0.016*"dessert" + 0.016*"souffle"'), (2, '0.016*"also" + 0.016*"ordered" + 0.016*"night" + 0.016*"birthday"'), (3, '0.015*"n" + 0.013*"good" + 0.013*"bread" + 0.013*"u"'), (4, '0.021*"service" + 0.021*"ive" + 0.014*"best" + 0.014*"can"')]
+FE2_Post_Reviews
+[(0, '0.016*"service" + 0.012*"menu" + 0.012*"food" + 0.010*"place"'), (1, '0.011*"chef" + 0.011*"mood" + 0.006*"risotto" + 0.006*"can"'), (2, '0.016*"best" + 0.016*"ive" + 0.011*"can" + 0.011*"tonys"'), (3, '0.015*"order" + 0.015*"service" + 0.015*"soufflé" + 0.012*"hrw"'), (4, '0.013*"souffle" + 0.012*"tonys" + 0.012*"service" + 0.009*"menu"')]
+FE3_Prior_Reviews
+[(0, '0.013*"tonys" + 0.012*"service" + 0.011*"menu" + 0.011*"dining"'), (1, '0.008*"houston" + 0.008*"wine" + 0.008*"nice" + 0.008*"list"'), (2, '0.013*"chocolate" + 0.013*"service" + 0.011*"souffle" + 0.010*"food"'), (3, '0.012*"service" + 0.010*"salt" + 0.010*"dome" + 0.008*"great"'), (4, '0.013*"service" + 0.009*"food" + 0.009*"ive" + 0.009*"like"')]
+FE3_Post_Reviews
+[(0, '0.010*"food" + 0.010*"tonys" + 0.009*"menu" + 0.009*"dessert"'), (1, '0.012*"service" + 0.010*"restaurant" + 0.010*"good" + 0.008*"place"'), (2, '0.014*"service" + 0.010*"food" + 0.008*"also" + 0.008*"great"'), (3, '0.010*"place" + 0.008*"menu" + 0.007*"table" + 0.007*"one"'), (4, '0.013*"service" + 0.010*"chocolate" + 0.008*"tonys" + 0.008*"food"')]
+FE4_Prior_Reviews
+[(0, '0.016*"restaurant" + 0.010*"place" + 0.010*"menu" + 0.009*"table"'), (1, '0.012*"service" + 0.008*"good" + 0.007*"steak" + 0.007*"im"'), (2, '0.009*"food" + 0.009*"menu" + 0.009*"service" + 0.008*"good"'), (3, '0.011*"service" + 0.010*"tonys" + 0.009*"food" + 0.009*"also"'), (4, '0.012*"ive" + 0.010*"always" + 0.010*"time" + 0.010*"service"')]
+FE4_Post_Reviews
+[(0, '0.010*"tonys" + 0.010*"menu" + 0.008*"food" + 0.008*"souffle"'), (1, '0.014*"service" + 0.010*"best" + 0.010*"restaurant" + 0.008*"steak"'), (2, '0.012*"also" + 0.010*"night" + 0.010*"ordered" + 0.009*"food"'), (3, '0.011*"place" + 0.010*"service" + 0.010*"menu" + 0.009*"good"'), (4, '0.010*"food" + 0.010*"service" + 0.009*"restaurant" + 0.009*"chocolate"')]
+FE5_Prior_Reviews
+[(0, '0.013*"tonys" + 0.012*"service" + 0.010*"food" + 0.008*"souffle"'), (1, '0.014*"restaurant" + 0.010*"menu" + 0.009*"food" + 0.009*"place"'), (2, '0.010*"like" + 0.009*"order" + 0.008*"menu" + 0.006*"table"'), (3, '0.012*"service" + 0.010*"best" + 0.009*"wine" + 0.008*"restaurant"'), (4, '0.011*"food" + 0.009*"service" + 0.008*"restaurant" + 0.008*"like"')]
+FE5_Post_Reviews
+[(0, '0.011*"menu" + 0.009*"ordered" + 0.009*"come" + 0.009*"place"'), (1, '0.013*"food" + 0.011*"good" + 0.010*"menu" + 0.008*"service"'), (2, '0.013*"service" + 0.010*"food" + 0.010*"tonys" + 0.007*"place"'), (3, '0.013*"tonys" + 0.010*"service" + 0.008*"restaurant" + 0.008*"food"'), (4, '0.011*"like" + 0.010*"food" + 0.009*"tonys" + 0.008*"best"')]
+BurgerPark.csv
+FE1_Prior_Reviews
+FE1_Post_Reviews
+FE2_Prior_Reviews
+[(0, '0.003*"one" + 0.003*"salt" + 0.003*"like" + 0.003*"two"'), (1, '0.003*"one" + 0.003*"like" + 0.003*"store" + 0.003*"bun"'), (2, '0.003*"one" + 0.003*"salt" + 0.003*"like" + 0.003*"just"'), (3, '0.003*"like" + 0.003*"one" + 0.003*"just" + 0.003*"two"'), (4, '0.011*"like" + 0.011*"one" + 0.010*"salt" + 0.008*"back"')]
+FE2_Post_Reviews
+[(0, '0.003*"one" + 0.003*"like" + 0.003*"bun" + 0.003*"salt"'), (1, '0.014*"burger" + 0.014*"say" + 0.014*"burnt" + 0.014*"today"'), (2, '0.003*"one" + 0.003*"like" + 0.003*"salt" + 0.003*"little"'), (3, '0.011*"like" + 0.011*"one" + 0.009*"salt" + 0.007*"dont"'), (4, '0.003*"one" + 0.003*"like" + 0.003*"salt" + 0.003*"back"')]
+FE3_Prior_Reviews
+[(0, '0.003*"one" + 0.003*"like" + 0.003*"fries" + 0.003*"store"'), (1, '0.013*"going" + 0.013*"sad" + 0.013*"today" + 0.013*"say"'), (2, '0.023*"burger" + 0.023*"park" + 0.023*"doesnt" + 0.023*"ever"'), (3, '0.011*"like" + 0.011*"one" + 0.009*"salt" + 0.008*"time"'), (4, '0.013*"dont" + 0.013*"burgers" + 0.013*"sucks" + 0.013*"slushes"')]
+FE3_Post_Reviews
+[(0, '0.023*"icee" + 0.012*"burger" + 0.012*"burgers" + 0.012*"urban"'), (1, '0.002*"like" + 0.002*"one" + 0.002*"salt" + 0.002*"back"'), (2, '0.022*"park" + 0.022*"burger" + 0.022*"ever" + 0.022*"doesnt"'), (3, '0.011*"like" + 0.011*"one" + 0.009*"salt" + 0.007*"store"'), (4, '0.013*"dont" + 0.013*"hope" + 0.013*"summer" + 0.013*"great"')]
+FE4_Prior_Reviews
+[(0, '0.013*"park" + 0.013*"place" + 0.013*"going" + 0.013*"sad"'), (1, '0.023*"love" + 0.012*"good" + 0.012*"burgers" + 0.012*"burger"'), (2, '0.002*"one" + 0.002*"like" + 0.002*"salt" + 0.002*"two"'), (3, '0.037*"icee" + 0.019*"ever" + 0.019*"burgers" + 0.019*"burger"'), (4, '0.012*"like" + 0.011*"one" + 0.009*"salt" + 0.007*"dont"')]
+FE4_Post_Reviews
+[(0, '0.013*"park" + 0.013*"burger" + 0.013*"place" + 0.013*"burnt"'), (1, '0.013*"burgers" + 0.013*"dont" + 0.013*"rebuild" + 0.013*"afternoon"'), (2, '0.023*"love" + 0.012*"go" + 0.012*"burgers" + 0.012*"burger"'), (3, '0.012*"like" + 0.010*"one" + 0.010*"burger" + 0.009*"salt"'), (4, '0.002*"icee" + 0.002*"burger" + 0.002*"burgers" + 0.002*"best"')]
+FE5_Prior_Reviews
+[(0, '0.002*"salt" + 0.002*"one" + 0.002*"like" + 0.002*"store"'), (1, '0.023*"burger" + 0.023*"burgers" + 0.016*"order" + 0.016*"bacon"'), (2, '0.022*"ever" + 0.022*"burger" + 0.022*"park" + 0.022*"doesnt"'), (3, '0.013*"going" + 0.013*"today" + 0.013*"say" + 0.013*"miss"'), (4, '0.011*"like" + 0.011*"one" + 0.009*"salt" + 0.007*"icee"')]
+FE5_Post_Reviews
+[(0, '0.032*"burger" + 0.026*"order" + 0.026*"get" + 0.020*"burgers"'), (1, '0.032*"burger" + 0.032*"go" + 0.032*"icee" + 0.017*"burgers"'), (2, '0.011*"one" + 0.011*"like" + 0.009*"salt" + 0.008*"store"'), (3, '0.021*"burger" + 0.021*"park" + 0.021*"ever" + 0.021*"doesnt"'), (4, '0.022*"love" + 0.012*"good" + 0.012*"cheese" + 0.012*"want"')]
+Dot.csv
+FE1_Prior_Reviews
+FE1_Post_Reviews
+FE2_Prior_Reviews
+[(0, '0.019*"biscuits" + 0.013*"food" + 0.011*"gravy" + 0.009*"table"'), (1, '0.015*"night" + 0.015*"rolls" + 0.012*"steak" + 0.012*"late"'), (2, '0.013*"time" + 0.013*"go" + 0.010*"get" + 0.010*"good"'), (3, '0.028*"good" + 0.013*"breakfast" + 0.013*"ive" + 0.010*"one"'), (4, '0.014*"fried" + 0.011*"pie" + 0.010*"cheese" + 0.010*"steak"')]
+FE2_Post_Reviews
+[(0, '0.012*"food" + 0.010*"home" + 0.010*"dont" + 0.010*"rolls"'), (1, '0.016*"good" + 0.014*"food" + 0.010*"cream" + 0.009*"one"'), (2, '0.011*"pie" + 0.010*"time" + 0.008*"just" + 0.007*"ever"'), (3, '0.016*"biscuits" + 0.011*"gravy" + 0.009*"service" + 0.009*"food"'), (4, '0.016*"time" + 0.009*"better" + 0.007*"back" + 0.007*"cheese"')]
+FE3_Prior_Reviews
+[(0, '0.013*"pie" + 0.012*"cream" + 0.010*"biscuits" + 0.009*"food"'), (1, '0.014*"time" + 0.012*"great" + 0.011*"food" + 0.007*"just"'), (2, '0.017*"good" + 0.014*"food" + 0.011*"service" + 0.009*"fried"'), (3, '0.015*"food" + 0.014*"place" + 0.012*"like" + 0.012*"good"'), (4, '0.014*"fried" + 0.013*"go" + 0.013*"good" + 0.012*"chicken"')]
+FE3_Post_Reviews
+[(0, '0.016*"food" + 0.013*"time" + 0.013*"get" + 0.011*"place"'), (1, '0.014*"place" + 0.014*"food" + 0.013*"got" + 0.011*"good"'), (2, '0.015*"good" + 0.012*"food" + 0.010*"fried" + 0.010*"chicken"'), (3, '0.014*"food" + 0.014*"biscuits" + 0.011*"good" + 0.009*"place"'), (4, '0.015*"food" + 0.014*"good" + 0.010*"fried" + 0.010*"chicken"')]
+FE4_Prior_Reviews
+[(0, '0.019*"food" + 0.018*"good" + 0.012*"place" + 0.010*"go"'), (1, '0.014*"time" + 0.010*"waitress" + 0.009*"pie" + 0.009*"good"'), (2, '0.017*"food" + 0.013*"place" + 0.012*"chicken" + 0.012*"great"'), (3, '0.019*"good" + 0.019*"food" + 0.015*"chicken" + 0.014*"place"'), (4, '0.018*"lot" + 0.016*"food" + 0.011*"parking" + 0.010*"amazing"')]
+FE4_Post_Reviews
+[(0, '0.018*"place" + 0.014*"good" + 0.013*"food" + 0.009*"get"'), (1, '0.019*"good" + 0.016*"food" + 0.012*"great" + 0.011*"like"'), (2, '0.016*"food" + 0.011*"great" + 0.009*"good" + 0.009*"lot"'), (3, '0.022*"food" + 0.016*"chicken" + 0.013*"fried" + 0.012*"good"'), (4, '0.019*"time" + 0.012*"food" + 0.011*"place" + 0.011*"get"')]
+FE5_Prior_Reviews
+[(0, '0.017*"chicken" + 0.014*"food" + 0.013*"fried" + 0.011*"good"'), (1, '0.014*"pie" + 0.011*"rolls" + 0.009*"portions" + 0.009*"cream"'), (2, '0.022*"food" + 0.015*"good" + 0.013*"place" + 0.011*"biscuits"'), (3, '0.017*"food" + 0.017*"great" + 0.016*"place" + 0.013*"time"'), (4, '0.025*"food" + 0.017*"good" + 0.013*"go" + 0.010*"place"')]
+FE5_Post_Reviews
+[(0, '0.025*"food" + 0.014*"great" + 0.012*"place" + 0.011*"time"'), (1, '0.018*"food" + 0.015*"good" + 0.010*"place" + 0.010*"portions"'), (2, '0.014*"good" + 0.013*"go" + 0.011*"food" + 0.011*"chicken"'), (3, '0.021*"food" + 0.014*"good" + 0.014*"great" + 0.011*"get"'), (4, '0.014*"good" + 0.014*"food" + 0.011*"place" + 0.008*"like"')]
+Demeris.csv
+FE1_Prior_Reviews
+FE1_Post_Reviews
+FE2_Prior_Reviews
+[(0, '0.024*"order" + 0.024*"demeris" + 0.015*"sauce" + 0.015*"side"'), (1, '0.029*"get" + 0.015*"back" + 0.015*"cut" + 0.015*"go"'), (2, '0.020*"good" + 0.020*"nice" + 0.014*"favorite" + 0.014*"ive"'), (3, '0.022*"bbq" + 0.022*"burger" + 0.022*"items" + 0.012*"good"'), (4, '0.031*"great" + 0.021*"fries" + 0.012*"brisket" + 0.012*"dry"')]
+FE2_Post_Reviews
+[(0, '0.029*"great" + 0.016*"fries" + 0.016*"portions" + 0.016*"friendly"'), (1, '0.024*"order" + 0.024*"demeris" + 0.015*"brisket" + 0.015*"ribs"'), (2, '0.017*"good" + 0.017*"get" + 0.013*"nice" + 0.013*"ive"'), (3, '0.020*"dry" + 0.011*"3" + 0.011*"meat" + 0.011*"good"'), (4, '0.029*"bbq" + 0.015*"good" + 0.015*"items" + 0.015*"burger"')]
+FE3_Prior_Reviews
+[(0, '0.016*"bbq" + 0.016*"get" + 0.012*"great" + 0.012*"meats"'), (1, '0.011*"dry" + 0.011*"portions" + 0.011*"meat" + 0.011*"long"'), (2, '0.018*"order" + 0.015*"good" + 0.015*"demeris" + 0.012*"ribs"'), (3, '0.027*"bbq" + 0.014*"great" + 0.014*"time" + 0.014*"items"'), (4, '0.026*"bbq" + 0.016*"good" + 0.016*"nice" + 0.013*"just"')]
+FE3_Post_Reviews
+[(0, '0.017*"good" + 0.012*"back" + 0.012*"get" + 0.012*"ive"'), (1, '0.018*"great" + 0.018*"barbecue" + 0.010*"must" + 0.010*"try"'), (2, '0.034*"bbq" + 0.015*"best" + 0.015*"good" + 0.013*"great"'), (3, '0.021*"brisket" + 0.017*"bbq" + 0.013*"meat" + 0.013*"like"'), (4, '0.020*"order" + 0.020*"demeris" + 0.012*"sauce" + 0.012*"ribs"')]
+FE4_Prior_Reviews
+[(0, '0.024*"bbq" + 0.018*"good" + 0.014*"nice" + 0.012*"3"'), (1, '0.023*"bbq" + 0.016*"brisket" + 0.014*"cheese" + 0.014*"good"'), (2, '0.021*"brisket" + 0.021*"get" + 0.019*"drive" + 0.016*"go"'), (3, '0.010*"nice" + 0.010*"best" + 0.010*"staff" + 0.010*"thing"'), (4, '0.028*"bbq" + 0.015*"great" + 0.015*"staff" + 0.015*"friendly"')]
+FE4_Post_Reviews
+[(0, '0.018*"order" + 0.018*"demeris" + 0.011*"brisket" + 0.011*"sauce"'), (1, '0.040*"bbq" + 0.027*"cheese" + 0.018*"mac" + 0.018*"think"'), (2, '0.017*"get" + 0.017*"bbq" + 0.013*"go" + 0.013*"back"'), (3, '0.030*"brisket" + 0.020*"meat" + 0.020*"side" + 0.020*"barbecue"'), (4, '0.024*"bbq" + 0.017*"good" + 0.012*"beans" + 0.010*"sides"')]
+FE5_Prior_Reviews
+[(0, '0.013*"order" + 0.011*"get" + 0.011*"sauce" + 0.011*"location"'), (1, '0.024*"cheese" + 0.021*"bbq" + 0.017*"mac" + 0.014*"think"'), (2, '0.028*"bbq" + 0.018*"brisket" + 0.016*"get" + 0.014*"good"'), (3, '0.021*"bbq" + 0.015*"nice" + 0.015*"good" + 0.013*"3"'), (4, '0.018*"bbq" + 0.015*"always" + 0.013*"love" + 0.013*"demeris"')]
+FE5_Post_Reviews
+[(0, '0.019*"bbq" + 0.015*"chicken" + 0.013*"order" + 0.013*"salad"'), (1, '0.013*"brisket" + 0.012*"bbq" + 0.010*"fries" + 0.010*"demeris"'), (2, '0.031*"bbq" + 0.021*"good" + 0.016*"just" + 0.013*"get"'), (3, '0.026*"bbq" + 0.017*"great" + 0.015*"cheese" + 0.013*"good"'), (4, '0.013*"food" + 0.011*"brisket" + 0.011*"good" + 0.009*"always"')]
+Doyles.csv
+FE1_Prior_Reviews
+FE1_Post_Reviews
+FE2_Prior_Reviews
+[(0, '0.013*"love" + 0.013*"usually" + 0.013*"food" + 0.013*"much"'), (1, '0.013*"place" + 0.013*"ive" + 0.013*"spaghetti" + 0.013*"offer"'), (2, '0.013*"go" + 0.013*"ive" + 0.013*"salad" + 0.013*"seriously"'), (3, '0.030*"seriously" + 0.030*"usually" + 0.030*"food" + 0.030*"love"'), (4, '0.070*"go" + 0.026*"place" + 0.026*"italian" + 0.026*"regular"')]
+FE2_Post_Reviews
+[(0, '0.008*"try" + 0.008*"super" + 0.008*"family" + 0.008*"feel"'), (1, '0.021*"place" + 0.021*"food" + 0.021*"seriously" + 0.021*"usually"'), (2, '0.008*"usually" + 0.008*"love" + 0.008*"island" + 0.008*"salad"'), (3, '0.008*"love" + 0.008*"usually" + 0.008*"seriously" + 0.008*"food"'), (4, '0.056*"go" + 0.024*"ive" + 0.024*"pickup" + 0.024*"window"')]
+FE3_Prior_Reviews
+[(0, '0.041*"chicken" + 0.041*"fast" + 0.023*"service" + 0.023*"lunch"'), (1, '0.026*"food" + 0.026*"love" + 0.026*"seriously" + 0.026*"salad"'), (2, '0.007*"take" + 0.007*"chicken" + 0.007*"good" + 0.007*"fast"'), (3, '0.025*"try" + 0.025*"great" + 0.025*"worth" + 0.025*"super"'), (4, '0.056*"go" + 0.021*"place" + 0.021*"window" + 0.021*"ive"')]
+FE3_Post_Reviews
+[(0, '0.014*"place" + 0.014*"food" + 0.014*"burgers" + 0.014*"good"'), (1, '0.004*"restaurant" + 0.004*"first" + 0.004*"order" + 0.004*"go"'), (2, '0.021*"try" + 0.021*"go" + 0.021*"makes" + 0.021*"super"'), (3, '0.026*"go" + 0.026*"restaurant" + 0.017*"first" + 0.013*"definitely"'), (4, '0.030*"chicken" + 0.030*"pizza" + 0.030*"fettuccine" + 0.020*"take"')]
+FE4_Prior_Reviews
+[(0, '0.016*"service" + 0.016*"great" + 0.016*"place" + 0.016*"worth"'), (1, '0.042*"good" + 0.022*"time" + 0.022*"friendly" + 0.022*"definitely"'), (2, '0.029*"go" + 0.023*"pizza" + 0.018*"makes" + 0.018*"delicious"'), (3, '0.025*"restaurant" + 0.020*"first" + 0.015*"definitely" + 0.015*"order"'), (4, '0.024*"chicken" + 0.024*"food" + 0.016*"fast" + 0.016*"take"')]
+FE4_Post_Reviews
+[(0, '0.023*"pizza" + 0.019*"good" + 0.014*"chicken" + 0.014*"take"'), (1, '0.012*"place" + 0.012*"forest" + 0.012*"oak" + 0.012*"diner"'), (2, '0.028*"good" + 0.021*"lunch" + 0.015*"go" + 0.015*"definitely"'), (3, '0.019*"food" + 0.019*"spaghetti" + 0.019*"usually" + 0.015*"order"'), (4, '0.017*"go" + 0.017*"restaurant" + 0.014*"also" + 0.014*"order"')]
+FE5_Prior_Reviews
+[(0, '0.022*"great" + 0.017*"didnt" + 0.013*"time" + 0.013*"food"'), (1, '0.021*"go" + 0.020*"good" + 0.014*"place" + 0.011*"although"'), (2, '0.015*"order" + 0.012*"good" + 0.011*"spaghetti" + 0.011*"definitely"'), (3, '0.018*"service" + 0.018*"pizza" + 0.018*"works" + 0.018*"chicken"'), (4, '0.027*"great" + 0.022*"doyles" + 0.017*"food" + 0.017*"never"')]
+FE5_Post_Reviews
+[(0, '0.018*"good" + 0.018*"food" + 0.018*"great" + 0.018*"doyles"'), (1, '0.017*"great" + 0.015*"pizza" + 0.015*"place" + 0.015*"time"'), (2, '0.025*"food" + 0.020*"didnt" + 0.015*"order" + 0.013*"take"'), (3, '0.017*"salad" + 0.015*"go" + 0.015*"spaghetti" + 0.012*"order"'), (4, '0.013*"chicken" + 0.013*"sandwich" + 0.013*"restaurant" + 0.011*"great"')]
+Molinas.csv
+FE1_Prior_Reviews
+[(0, '0.022*"good" + 0.022*"say" + 0.022*"guess" + 0.022*"didnt"'), (1, '0.008*"anything" + 0.008*"since" + 0.008*"night" + 0.008*"didnt"'), (2, '0.008*"joses" + 0.008*"tacos" + 0.008*"good" + 0.008*"dip"'), (3, '0.008*"dip" + 0.008*"joses" + 0.008*"tacos" + 0.008*"order"'), (4, '0.031*"tacos" + 0.031*"joses" + 0.031*"dip" + 0.021*"looking"')]
+FE1_Post_Reviews
+[(0, '0.008*"good" + 0.008*"didnt" + 0.008*"dip" + 0.008*"guess"'), (1, '0.025*"good" + 0.025*"food" + 0.025*"dinner" + 0.025*"night"'), (2, '0.034*"joses" + 0.034*"dip" + 0.034*"tacos" + 0.023*"carbon"'), (3, '0.008*"tacos" + 0.008*"dip" + 0.008*"ever" + 0.008*"joses"'), (4, '0.008*"anything" + 0.008*"guess" + 0.008*"say" + 0.008*"good"')]
+FE2_Prior_Reviews
+[(0, '0.021*"dip" + 0.021*"jose" + 0.021*"order" + 0.012*"service"'), (1, '0.022*"dip" + 0.022*"tacos" + 0.022*"joses" + 0.015*"good"'), (2, '0.017*"service" + 0.017*"food" + 0.017*"molinas" + 0.017*"house"'), (3, '0.013*"always" + 0.013*"menu" + 0.013*"priced" + 0.013*"love"'), (4, '0.020*"food" + 0.016*"good" + 0.016*"night" + 0.016*"say"')]
+FE2_Post_Reviews
+[(0, '0.003*"dip" + 0.003*"order" + 0.003*"tacos" + 0.003*"joses"'), (1, '0.027*"food" + 0.018*"go" + 0.018*"im" + 0.018*"always"'), (2, '0.017*"dip" + 0.013*"food" + 0.013*"nice" + 0.013*"salsa"'), (3, '0.026*"food" + 0.022*"good" + 0.015*"dinner" + 0.015*"say"'), (4, '0.024*"dip" + 0.021*"joses" + 0.021*"tacos" + 0.014*"favorite"')]
+FE3_Prior_Reviews
+[(0, '0.017*"go" + 0.017*"time" + 0.017*"im" + 0.013*"place"'), (1, '0.023*"food" + 0.016*"server" + 0.012*"always" + 0.012*"good"'), (2, '0.013*"food" + 0.013*"dip" + 0.013*"come" + 0.010*"salsa"'), (3, '0.020*"dip" + 0.020*"joses" + 0.020*"tacos" + 0.014*"order"'), (4, '0.016*"good" + 0.016*"molinas" + 0.016*"food" + 0.011*"since"')]
+FE3_Post_Reviews
+[(0, '0.016*"dip" + 0.016*"joses" + 0.014*"tacos" + 0.012*"place"'), (1, '0.015*"im" + 0.015*"go" + 0.015*"place" + 0.015*"nice"'), (2, '0.020*"food" + 0.017*"one" + 0.015*"good" + 0.012*"dinner"'), (3, '0.015*"come" + 0.011*"guisada" + 0.011*"today" + 0.011*"carne"'), (4, '0.029*"food" + 0.022*"good" + 0.015*"great" + 0.015*"always"')]
+FE4_Prior_Reviews
+[(0, '0.020*"one" + 0.014*"dip" + 0.014*"food" + 0.013*"joses"'), (1, '0.016*"drinks" + 0.016*"margarita" + 0.012*"fast" + 0.008*"pretty"'), (2, '0.017*"good" + 0.014*"food" + 0.012*"great" + 0.012*"place"'), (3, '0.021*"food" + 0.021*"im" + 0.014*"time" + 0.014*"nice"'), (4, '0.015*"come" + 0.015*"dip" + 0.011*"salsa" + 0.011*"super"')]
+FE4_Post_Reviews
+[(0, '0.018*"service" + 0.018*"dip" + 0.015*"food" + 0.015*"jose"'), (1, '0.027*"food" + 0.015*"nice" + 0.012*"good" + 0.012*"im"'), (2, '0.019*"one" + 0.016*"bar" + 0.011*"place" + 0.011*"just"'), (3, '0.015*"average" + 0.015*"come" + 0.015*"margarita" + 0.012*"always"'), (4, '0.015*"food" + 0.012*"good" + 0.012*"didnt" + 0.010*"dinner"')]
+FE5_Prior_Reviews
+[(0, '0.031*"food" + 0.020*"average" + 0.016*"mexican" + 0.013*"great"'), (1, '0.018*"good" + 0.015*"didnt" + 0.013*"food" + 0.013*"say"'), (2, '0.019*"one" + 0.018*"food" + 0.010*"service" + 0.010*"went"'), (3, '0.016*"dip" + 0.016*"tacos" + 0.016*"joses" + 0.011*"always"'), (4, '0.013*"come" + 0.011*"margarita" + 0.009*"drinks" + 0.009*"great"')]
+FE5_Post_Reviews
+[(0, '0.019*"food" + 0.013*"location" + 0.013*"great" + 0.010*"best"'), (1, '0.013*"meal" + 0.010*"service" + 0.010*"food" + 0.010*"party"'), (2, '0.020*"food" + 0.019*"one" + 0.009*"molinas" + 0.009*"good"'), (3, '0.016*"food" + 0.011*"dinner" + 0.010*"small" + 0.010*"will"'), (4, '0.017*"average" + 0.015*"food" + 0.012*"good" + 0.012*"margaritas"')]
+Cleburne.csv
+FE1_Prior_Reviews
+FE1_Post_Reviews
+FE2_Prior_Reviews
+[(0, '0.028*"food" + 0.014*"paid" + 0.014*"tea" + 0.014*"talking"'), (1, '0.014*"place" + 0.007*"portions" + 0.007*"food" + 0.007*"large"'), (2, '0.016*"cafeteria" + 0.016*"now" + 0.011*"take" + 0.011*"cards"'), (3, '0.020*"food" + 0.012*"home" + 0.012*"greek" + 0.008*"dont"'), (4, '0.024*"shrimp" + 0.016*"great" + 0.016*"food" + 0.011*"made"')]
+FE2_Post_Reviews
+[(0, '0.018*"food" + 0.009*"fried" + 0.009*"local" + 0.007*"huge"'), (1, '0.027*"food" + 0.018*"two" + 0.014*"place" + 0.014*"cards"'), (2, '0.012*"made" + 0.012*"lubys" + 0.007*"home" + 0.007*"step"'), (3, '0.014*"food" + 0.014*"got" + 0.010*"cafeteria" + 0.010*"place"'), (4, '0.024*"shrimp" + 0.016*"great" + 0.013*"many" + 0.010*"food"')]
+FE3_Prior_Reviews
+[(0, '0.021*"food" + 0.013*"place" + 0.011*"got" + 0.011*"great"'), (1, '0.025*"food" + 0.013*"cafeteria" + 0.013*"cards" + 0.013*"two"'), (2, '0.012*"take" + 0.009*"cafeteria" + 0.009*"lady" + 0.009*"first"'), (3, '0.016*"food" + 0.016*"shrimp" + 0.014*"great" + 0.009*"many"'), (4, '0.009*"bland" + 0.009*"tea" + 0.009*"line" + 0.007*"meal"')]
+FE3_Post_Reviews
+[(0, '0.026*"food" + 0.017*"place" + 0.011*"cafeteria" + 0.011*"two"'), (1, '0.009*"staff" + 0.009*"going" + 0.009*"cafeteria" + 0.009*"now"'), (2, '0.008*"line" + 0.008*"local" + 0.008*"bland" + 0.008*"large"'), (3, '0.015*"got" + 0.011*"just" + 0.011*"photos" + 0.008*"home"'), (4, '0.019*"food" + 0.016*"great" + 0.016*"shrimp" + 0.007*"many"')]
+FE4_Prior_Reviews
+[(0, '0.040*"food" + 0.016*"cash" + 0.016*"great" + 0.010*"cafeteria"'), (1, '0.012*"get" + 0.009*"one" + 0.009*"time" + 0.009*"line"'), (2, '0.011*"just" + 0.011*"got" + 0.008*"cards" + 0.008*"place"'), (3, '0.015*"food" + 0.012*"shrimp" + 0.008*"great" + 0.007*"quality"'), (4, '0.009*"cafeteria" + 0.009*"back" + 0.009*"fresh" + 0.009*"now"')]
+FE4_Post_Reviews
+[(0, '0.020*"food" + 0.010*"cash" + 0.010*"back" + 0.010*"photos"'), (1, '0.012*"food" + 0.008*"take" + 0.008*"line" + 0.006*"local"'), (2, '0.016*"shrimp" + 0.012*"food" + 0.011*"made" + 0.009*"great"'), (3, '0.018*"place" + 0.012*"food" + 0.009*"portions" + 0.009*"cash"'), (4, '0.019*"food" + 0.012*"one" + 0.010*"cafeteria" + 0.010*"great"')]
+FE5_Prior_Reviews
+[(0, '0.018*"food" + 0.016*"place" + 0.011*"take" + 0.009*"cafeteria"'), (1, '0.009*"cafeteria" + 0.009*"room" + 0.009*"food" + 0.007*"meal"'), (2, '0.018*"food" + 0.014*"great" + 0.009*"place" + 0.009*"selection"'), (3, '0.011*"food" + 0.009*"well" + 0.009*"line" + 0.009*"local"'), (4, '0.018*"food" + 0.013*"shrimp" + 0.010*"great" + 0.010*"one"')]
+FE5_Post_Reviews
+[(0, '0.024*"food" + 0.010*"great" + 0.008*"place" + 0.007*"cafeteria"'), (1, '0.007*"many" + 0.007*"well" + 0.005*"made" + 0.005*"portions"'), (2, '0.018*"food" + 0.018*"cafeteria" + 0.013*"place" + 0.011*"cleburne"'), (3, '0.015*"back" + 0.012*"cafeteria" + 0.012*"houston" + 0.010*"place"'), (4, '0.011*"food" + 0.009*"shrimp" + 0.009*"just" + 0.008*"got"')]
+BBQInn.csv
+FE1_Prior_Reviews
+FE1_Post_Reviews
+FE2_Prior_Reviews
+[(0, '0.017*"great" + 0.017*"food" + 0.017*"service" + 0.017*"60"'), (1, '0.003*"chicken" + 0.003*"fries" + 0.003*"fried" + 0.003*"good"'), (2, '0.027*"try" + 0.018*"place" + 0.018*"food" + 0.018*"ok"'), (3, '0.038*"fried" + 0.020*"chicken" + 0.018*"think" + 0.015*"fries"'), (4, '0.068*"chicken" + 0.032*"fried" + 0.018*"fries" + 0.016*"get"')]
+FE2_Post_Reviews
+[(0, '0.038*"chicken" + 0.021*"fried" + 0.017*"get" + 0.015*"fries"'), (1, '0.054*"chicken" + 0.041*"fried" + 0.016*"fries" + 0.011*"years"'), (2, '0.021*"chicken" + 0.014*"fried" + 0.011*"houston" + 0.011*"bland"'), (3, '0.014*"food" + 0.014*"good" + 0.014*"ordering" + 0.014*"fried"'), (4, '0.025*"chicken" + 0.013*"fried" + 0.013*"good" + 0.013*"waitress"')]
+FE3_Prior_Reviews
+[(0, '0.039*"chicken" + 0.028*"fried" + 0.013*"fries" + 0.011*"place"'), (1, '0.040*"chicken" + 0.030*"fried" + 0.016*"food" + 0.012*"best"'), (2, '0.024*"fried" + 0.024*"chicken" + 0.015*"food" + 0.012*"barbecue"'), (3, '0.041*"chicken" + 0.027*"fried" + 0.011*"fries" + 0.011*"good"'), (4, '0.017*"chicken" + 0.014*"fried" + 0.010*"good" + 0.007*"fries"')]
+FE3_Post_Reviews
+[(0, '0.028*"chicken" + 0.024*"fried" + 0.011*"definitely" + 0.009*"salad"'), (1, '0.029*"chicken" + 0.012*"fried" + 0.012*"salad" + 0.009*"dont"'), (2, '0.032*"chicken" + 0.015*"fried" + 0.013*"salad" + 0.010*"good"'), (3, '0.040*"chicken" + 0.034*"fried" + 0.011*"food" + 0.011*"just"'), (4, '0.032*"chicken" + 0.028*"fried" + 0.014*"good" + 0.011*"just"')]
+FE4_Prior_Reviews
+[(0, '0.037*"chicken" + 0.027*"fried" + 0.015*"just" + 0.010*"salad"'), (1, '0.013*"place" + 0.013*"barbecue" + 0.010*"time" + 0.010*"sauce"'), (2, '0.021*"fried" + 0.021*"chicken" + 0.014*"food" + 0.007*"better"'), (3, '0.061*"chicken" + 0.047*"fried" + 0.017*"salad" + 0.013*"good"'), (4, '0.020*"chicken" + 0.018*"fried" + 0.014*"back" + 0.012*"shrimp"')]
+FE4_Post_Reviews
+[(0, '0.029*"chicken" + 0.022*"fried" + 0.015*"place" + 0.013*"just"'), (1, '0.052*"chicken" + 0.046*"fried" + 0.017*"salad" + 0.011*"wait"'), (2, '0.022*"ribs" + 0.019*"fried" + 0.019*"just" + 0.011*"chicken"'), (3, '0.044*"chicken" + 0.025*"fried" + 0.015*"fries" + 0.009*"good"'), (4, '0.017*"chicken" + 0.011*"good" + 0.011*"fries" + 0.008*"salad"')]
+FE5_Prior_Reviews
+[(0, '0.035*"chicken" + 0.027*"fried" + 0.015*"barbecue" + 0.012*"salad"'), (1, '0.019*"chicken" + 0.018*"ribs" + 0.018*"fried" + 0.016*"just"'), (2, '0.028*"chicken" + 0.021*"fried" + 0.009*"salad" + 0.009*"hot"'), (3, '0.044*"chicken" + 0.036*"fried" + 0.016*"salad" + 0.012*"good"'), (4, '0.027*"fried" + 0.026*"chicken" + 0.011*"just" + 0.010*"like"')]
+FE5_Post_Reviews
+[(0, '0.028*"fried" + 0.025*"chicken" + 0.013*"barbecue" + 0.012*"salad"'), (1, '0.036*"chicken" + 0.036*"fried" + 0.013*"like" + 0.013*"years"'), (2, '0.025*"chicken" + 0.017*"fried" + 0.011*"good" + 0.010*"just"'), (3, '0.049*"chicken" + 0.029*"fried" + 0.014*"good" + 0.012*"food"'), (4, '0.021*"fried" + 0.013*"just" + 0.012*"place" + 0.010*"ribs"')]
+Brennans.csv
+FE1_Prior_Reviews
+FE1_Post_Reviews
+FE2_Prior_Reviews
+[(0, '0.013*"turtle" + 0.013*"bananas" + 0.011*"food" + 0.011*"meal"'), (1, '0.014*"dessert" + 0.010*"houston" + 0.010*"time" + 0.010*"pecan"'), (2, '0.008*"love" + 0.008*"one" + 0.008*"favorite" + 0.008*"friends"'), (3, '0.011*"crawfish" + 0.010*"food" + 0.008*"one" + 0.008*"table"'), (4, '0.021*"back" + 0.013*"service" + 0.009*"husband" + 0.009*"restaurant"')]
+FE2_Post_Reviews
+[(0, '0.013*"food" + 0.009*"just" + 0.008*"soup" + 0.008*"brennans"'), (1, '0.008*"meal" + 0.007*"place" + 0.006*"make" + 0.006*"food"'), (2, '0.008*"service" + 0.008*"good" + 0.007*"houston" + 0.007*"time"'), (3, '0.009*"food" + 0.008*"bread" + 0.007*"houston" + 0.007*"bananas"'), (4, '0.010*"room" + 0.009*"food" + 0.008*"even" + 0.007*"soup"')]
+FE3_Prior_Reviews
+[(0, '0.010*"brennans" + 0.010*"food" + 0.008*"service" + 0.008*"one"'), (1, '0.011*"food" + 0.009*"houston" + 0.008*"time" + 0.007*"staff"'), (2, '0.010*"food" + 0.010*"soup" + 0.008*"good" + 0.008*"brennans"'), (3, '0.010*"restaurant" + 0.008*"crab" + 0.006*"even" + 0.006*"food"'), (4, '0.009*"place" + 0.007*"great" + 0.007*"entree" + 0.006*"back"')]
+FE3_Post_Reviews
+[(0, '0.010*"food" + 0.009*"just" + 0.008*"restaurant" + 0.008*"soup"'), (1, '0.007*"one" + 0.007*"brennans" + 0.006*"foster" + 0.006*"bananas"'), (2, '0.011*"food" + 0.009*"restaurant" + 0.009*"good" + 0.008*"time"'), (3, '0.013*"food" + 0.008*"brennans" + 0.007*"one" + 0.006*"houston"'), (4, '0.008*"brennans" + 0.008*"food" + 0.006*"soup" + 0.006*"restaurant"')]
+FE4_Prior_Reviews
+[(0, '0.014*"food" + 0.008*"service" + 0.008*"one" + 0.007*"staff"'), (1, '0.011*"food" + 0.010*"brennans" + 0.008*"just" + 0.008*"place"'), (2, '0.009*"food" + 0.009*"great" + 0.007*"brennans" + 0.007*"time"'), (3, '0.011*"food" + 0.009*"restaurant" + 0.008*"good" + 0.008*"soup"'), (4, '0.009*"time" + 0.007*"service" + 0.007*"restaurant" + 0.006*"back"')]
+FE4_Post_Reviews
+[(0, '0.010*"brennans" + 0.010*"great" + 0.008*"food" + 0.008*"dinner"'), (1, '0.012*"food" + 0.009*"good" + 0.007*"soup" + 0.007*"will"'), (2, '0.012*"soup" + 0.009*"good" + 0.008*"table" + 0.008*"turtle"'), (3, '0.006*"better" + 0.006*"always" + 0.005*"food" + 0.004*"even"'), (4, '0.016*"food" + 0.009*"service" + 0.008*"restaurant" + 0.008*"one"')]
+FE5_Prior_Reviews
+[(0, '0.013*"food" + 0.007*"soup" + 0.007*"one" + 0.007*"service"'), (1, '0.011*"food" + 0.008*"good" + 0.008*"brennans" + 0.007*"soup"'), (2, '0.012*"food" + 0.009*"just" + 0.008*"service" + 0.008*"menu"'), (3, '0.010*"food" + 0.008*"great" + 0.008*"place" + 0.007*"valet"'), (4, '0.009*"place" + 0.009*"just" + 0.008*"good" + 0.008*"brennans"')]
+FE5_Post_Reviews
+[(0, '0.012*"food" + 0.007*"brennans" + 0.007*"service" + 0.007*"table"'), (1, '0.011*"food" + 0.008*"good" + 0.007*"back" + 0.007*"delicious"'), (2, '0.015*"food" + 0.011*"good" + 0.009*"service" + 0.008*"foster"'), (3, '0.011*"5" + 0.009*"time" + 0.009*"soup" + 0.008*"good"'), (4, '0.013*"food" + 0.009*"service" + 0.009*"good" + 0.009*"great"')]
+Lankford.csv
+FE1_Prior_Reviews
+FE1_Post_Reviews
+FE2_Prior_Reviews
+[(0, '0.031*"burger" + 0.012*"burgers" + 0.011*"good" + 0.009*"also"'), (1, '0.018*"burger" + 0.012*"good" + 0.011*"burgers" + 0.010*"food"'), (2, '0.012*"ive" + 0.009*"try" + 0.009*"best" + 0.009*"one"'), (3, '0.021*"food" + 0.016*"place" + 0.012*"good" + 0.012*"burger"'), (4, '0.018*"burger" + 0.013*"place" + 0.011*"didnt" + 0.011*"sauce"')]
+FE2_Post_Reviews
+[(0, '0.022*"burger" + 0.016*"place" + 0.010*"good" + 0.009*"burgers"'), (1, '0.022*"burger" + 0.011*"place" + 0.009*"burgers" + 0.009*"ive"'), (2, '0.020*"burger" + 0.014*"good" + 0.009*"place" + 0.009*"burgers"'), (3, '0.019*"burger" + 0.015*"food" + 0.014*"just" + 0.014*"burgers"'), (4, '0.023*"food" + 0.012*"place" + 0.009*"cash" + 0.009*"burger"')]
+FE3_Prior_Reviews
+[(0, '0.015*"good" + 0.014*"place" + 0.013*"food" + 0.010*"great"'), (1, '0.022*"burger" + 0.015*"burgers" + 0.014*"place" + 0.010*"just"'), (2, '0.016*"place" + 0.013*"burgers" + 0.009*"burger" + 0.009*"just"'), (3, '0.020*"burger" + 0.018*"food" + 0.017*"place" + 0.014*"good"'), (4, '0.030*"burger" + 0.010*"food" + 0.007*"burgers" + 0.007*"like"')]
+FE3_Post_Reviews
+[(0, '0.025*"burger" + 0.010*"place" + 0.010*"get" + 0.010*"good"'), (1, '0.019*"burger" + 0.014*"food" + 0.011*"cash" + 0.011*"wait"'), (2, '0.024*"burger" + 0.020*"burgers" + 0.013*"food" + 0.013*"good"'), (3, '0.021*"place" + 0.019*"burger" + 0.012*"burgers" + 0.009*"good"'), (4, '0.020*"burger" + 0.014*"place" + 0.008*"one" + 0.008*"food"')]
+FE4_Prior_Reviews
+[(0, '0.029*"burger" + 0.018*"place" + 0.012*"burgers" + 0.009*"food"'), (1, '0.023*"burger" + 0.017*"place" + 0.010*"back" + 0.008*"get"'), (2, '0.017*"burger" + 0.015*"good" + 0.011*"place" + 0.010*"burgers"'), (3, '0.020*"food" + 0.015*"burgers" + 0.014*"great" + 0.013*"burger"'), (4, '0.031*"burger" + 0.012*"good" + 0.011*"fries" + 0.010*"burgers"')]
+FE4_Post_Reviews
+[(0, '0.027*"burger" + 0.012*"good" + 0.012*"cheese" + 0.010*"grim"'), (1, '0.026*"place" + 0.011*"good" + 0.010*"burgers" + 0.008*"food"'), (2, '0.028*"burger" + 0.013*"burgers" + 0.013*"place" + 0.011*"food"'), (3, '0.026*"burger" + 0.014*"food" + 0.011*"place" + 0.009*"burgers"'), (4, '0.024*"burger" + 0.014*"place" + 0.013*"burgers" + 0.011*"just"')]
+FE5_Prior_Reviews
+[(0, '0.023*"burger" + 0.013*"place" + 0.009*"get" + 0.009*"food"'), (1, '0.025*"place" + 0.025*"burger" + 0.015*"cash" + 0.015*"burgers"'), (2, '0.028*"burger" + 0.016*"food" + 0.012*"burgers" + 0.011*"place"'), (3, '0.019*"burger" + 0.013*"burgers" + 0.010*"just" + 0.009*"like"'), (4, '0.026*"burger" + 0.012*"fries" + 0.009*"grocery" + 0.009*"lankford"')]
+FE5_Post_Reviews
+[(0, '0.032*"burger" + 0.012*"food" + 0.011*"place" + 0.011*"cheese"'), (1, '0.014*"burger" + 0.012*"get" + 0.010*"good" + 0.010*"food"'), (2, '0.017*"burger" + 0.010*"food" + 0.009*"burgers" + 0.009*"place"'), (3, '0.027*"burger" + 0.013*"burgers" + 0.012*"cash" + 0.008*"good"'), (4, '0.032*"burger" + 0.019*"place" + 0.015*"burgers" + 0.012*"great"')]
+Christies.csv
+FE1_Prior_Reviews
+[(0, '0.014*"shrimp" + 0.014*"years" + 0.014*"houston" + 0.014*"theyre"'), (1, '0.032*"houston" + 0.032*"shrimp" + 0.022*"best" + 0.022*"right"'), (2, '0.014*"houston" + 0.014*"fried" + 0.014*"shrimp" + 0.014*"christies"'), (3, '0.014*"shrimp" + 0.014*"fried" + 0.014*"christies" + 0.014*"houston"'), (4, '0.014*"houston" + 0.014*"shrimp" + 0.014*"years" + 0.014*"theyre"')]
+FE1_Post_Reviews
+[(0, '0.014*"houston" + 0.014*"shrimp" + 0.014*"good" + 0.014*"christies"'), (1, '0.014*"houston" + 0.014*"shrimp" + 0.014*"years" + 0.014*"christies"'), (2, '0.033*"shrimp" + 0.033*"houston" + 0.022*"best" + 0.022*"seafood"'), (3, '0.014*"houston" + 0.014*"shrimp" + 0.014*"fried" + 0.014*"years"'), (4, '0.014*"houston" + 0.014*"shrimp" + 0.014*"good" + 0.014*"christies"')]
+FE2_Prior_Reviews
+[(0, '0.007*"shrimp" + 0.007*"houston" + 0.007*"seafood" + 0.007*"christies"'), (1, '0.030*"shrimp" + 0.026*"houston" + 0.022*"good" + 0.022*"best"'), (2, '0.045*"shrimp" + 0.045*"always" + 0.045*"potato" + 0.031*"side"'), (3, '0.039*"fried" + 0.039*"shrimp" + 0.039*"restaurant" + 0.039*"family"'), (4, '0.007*"shrimp" + 0.007*"houston" + 0.007*"fried" + 0.007*"years"')]
+FE2_Post_Reviews
+[(0, '0.027*"shrimp" + 0.024*"christies" + 0.021*"fried" + 0.018*"houston"'), (1, '0.026*"meal" + 0.021*"restaurant" + 0.017*"food" + 0.017*"can"'), (2, '0.003*"shrimp" + 0.003*"always" + 0.003*"best" + 0.003*"houston"'), (3, '0.038*"fried" + 0.026*"best" + 0.026*"shrimp" + 0.020*"one"'), (4, '0.030*"shrimp" + 0.030*"always" + 0.030*"potato" + 0.020*"side"')]
+FE3_Prior_Reviews
+[(0, '0.018*"food" + 0.018*"rice" + 0.018*"asked" + 0.018*"ok"'), (1, '0.019*"meal" + 0.019*"shrimp" + 0.015*"restaurant" + 0.012*"ordered"'), (2, '0.009*"fried" + 0.009*"stuffed" + 0.009*"one" + 0.009*"good"'), (3, '0.028*"shrimp" + 0.026*"fried" + 0.018*"seafood" + 0.016*"best"'), (4, '0.024*"fried" + 0.017*"shrimp" + 0.017*"christies" + 0.014*"service"')]
+FE3_Post_Reviews
+[(0, '0.025*"seafood" + 0.019*"fresh" + 0.013*"steak" + 0.013*"wanted"'), (1, '0.022*"service" + 0.022*"fried" + 0.018*"houston" + 0.018*"food"'), (2, '0.024*"fried" + 0.024*"shrimp" + 0.019*"restaurant" + 0.017*"meal"'), (3, '0.022*"seafood" + 0.015*"restaurant" + 0.008*"like" + 0.008*"tasty"'), (4, '0.028*"shrimp" + 0.017*"christies" + 0.015*"houston" + 0.013*"years"')]
+FE4_Prior_Reviews
+[(0, '0.028*"fried" + 0.026*"houston" + 0.026*"service" + 0.025*"shrimp"'), (1, '0.030*"shrimp" + 0.022*"fried" + 0.019*"houston" + 0.017*"restaurant"'), (2, '0.018*"christies" + 0.014*"great" + 0.012*"shrimp" + 0.012*"fried"'), (3, '0.018*"food" + 0.016*"restaurant" + 0.016*"shrimp" + 0.015*"meal"'), (4, '0.036*"seafood" + 0.027*"fresh" + 0.023*"steak" + 0.019*"wanted"')]
+FE4_Post_Reviews
+[(0, '0.026*"fried" + 0.026*"shrimp" + 0.019*"raw" + 0.011*"food"'), (1, '0.027*"restaurant" + 0.017*"meal" + 0.014*"can" + 0.014*"fried"'), (2, '0.018*"food" + 0.016*"service" + 0.016*"fried" + 0.014*"great"'), (3, '0.029*"seafood" + 0.023*"houston" + 0.023*"shrimp" + 0.017*"fresh"'), (4, '0.021*"shrimp" + 0.013*"always" + 0.011*"great" + 0.011*"side"')]
+FE5_Prior_Reviews
+[(0, '0.021*"shrimp" + 0.013*"christies" + 0.013*"great" + 0.011*"potato"'), (1, '0.018*"shrimp" + 0.015*"houston" + 0.015*"fried" + 0.013*"good"'), (2, '0.024*"shrimp" + 0.022*"fried" + 0.014*"best" + 0.012*"food"'), (3, '0.017*"restaurant" + 0.015*"service" + 0.015*"fried" + 0.015*"good"'), (4, '0.032*"seafood" + 0.016*"fresh" + 0.015*"shrimp" + 0.014*"food"')]
+FE5_Post_Reviews
+[(0, '0.016*"christies" + 0.008*"im" + 0.008*"crab" + 0.008*"great"'), (1, '0.020*"shrimp" + 0.018*"good" + 0.016*"fried" + 0.013*"service"'), (2, '0.025*"shrimp" + 0.019*"fried" + 0.012*"food" + 0.012*"great"'), (3, '0.021*"restaurant" + 0.019*"food" + 0.017*"seafood" + 0.013*"ever"'), (4, '0.013*"salad" + 0.013*"just" + 0.012*"shrimp" + 0.011*"ordered"')]
+Yale.csv
+FE1_Prior_Reviews
+[(0, '0.014*"diner" + 0.014*"counter" + 0.014*"pie" + 0.014*"along"'), (1, '0.035*"diner" + 0.024*"along" + 0.024*"pie" + 0.024*"like"'), (2, '0.014*"wall" + 0.014*"diner" + 0.014*"little" + 0.014*"interesting"'), (3, '0.015*"diner" + 0.015*"counter" + 0.015*"interesting" + 0.015*"wall"'), (4, '0.014*"like" + 0.014*"wall" + 0.014*"interesting" + 0.014*"diner"')]
+FE1_Post_Reviews
+[(0, '0.014*"diner" + 0.014*"like" + 0.014*"along" + 0.014*"counter"'), (1, '0.015*"diner" + 0.015*"interesting" + 0.015*"like" + 0.015*"little"'), (2, '0.015*"diner" + 0.015*"little" + 0.015*"pie" + 0.015*"along"'), (3, '0.037*"diner" + 0.025*"wall" + 0.025*"counter" + 0.025*"pie"'), (4, '0.015*"diner" + 0.015*"along" + 0.015*"interesting" + 0.015*"pie"')]
+FE2_Prior_Reviews
+[(0, '0.035*"grill" + 0.019*"unfortunately" + 0.019*"coffee" + 0.019*"service"'), (1, '0.033*"diner" + 0.022*"little" + 0.022*"like" + 0.022*"counter"'), (2, '0.006*"diner" + 0.006*"pie" + 0.006*"little" + 0.006*"wall"'), (3, '0.034*"one" + 0.023*"like" + 0.023*"food" + 0.023*"best"'), (4, '0.040*"breakfast" + 0.022*"inexpensive" + 0.022*"great" + 0.022*"better"')]
+FE2_Post_Reviews
+[(0, '0.036*"place" + 0.021*"great" + 0.021*"love" + 0.021*"old"'), (1, '0.028*"breakfast" + 0.021*"great" + 0.015*"melt" + 0.015*"always"'), (2, '0.025*"food" + 0.017*"much" + 0.017*"service" + 0.017*"never"'), (3, '0.029*"diner" + 0.021*"little" + 0.017*"like" + 0.017*"along"'), (4, '0.003*"place" + 0.003*"great" + 0.003*"bacon" + 0.003*"old"')]
+FE3_Prior_Reviews
+[(0, '0.021*"diner" + 0.014*"little" + 0.014*"like" + 0.014*"along"'), (1, '0.022*"food" + 0.017*"order" + 0.017*"get" + 0.011*"service"'), (2, '0.028*"great" + 0.019*"place" + 0.019*"old" + 0.014*"bacon"'), (3, '0.021*"food" + 0.014*"service" + 0.014*"one" + 0.014*"like"'), (4, '0.021*"great" + 0.021*"place" + 0.012*"good" + 0.012*"little"')]
+FE3_Post_Reviews
+[(0, '0.022*"diner" + 0.019*"like" + 0.016*"little" + 0.013*"great"'), (1, '0.029*"great" + 0.021*"place" + 0.020*"bacon" + 0.017*"old"'), (2, '0.021*"food" + 0.018*"good" + 0.018*"coffee" + 0.015*"like"'), (3, '0.016*"love" + 0.016*"place" + 0.009*"burger" + 0.009*"fashioned"'), (4, '0.021*"good" + 0.017*"food" + 0.017*"grill" + 0.013*"breakfast"')]
+FE4_Prior_Reviews
+[(0, '0.027*"good" + 0.015*"time" + 0.014*"food" + 0.013*"bacon"'), (1, '0.026*"place" + 0.023*"good" + 0.021*"old" + 0.018*"food"'), (2, '0.022*"breakfast" + 0.022*"great" + 0.015*"good" + 0.015*"little"'), (3, '0.018*"diner" + 0.018*"like" + 0.015*"great" + 0.015*"coffee"'), (4, '0.018*"food" + 0.018*"order" + 0.014*"service" + 0.014*"never"')]
+FE4_Post_Reviews
+[(0, '0.028*"coffee" + 0.019*"like" + 0.016*"good" + 0.016*"nothing"'), (1, '0.020*"place" + 0.020*"good" + 0.020*"food" + 0.015*"great"'), (2, '0.019*"breakfast" + 0.016*"good" + 0.016*"great" + 0.013*"food"'), (3, '0.026*"diner" + 0.016*"food" + 0.016*"counter" + 0.011*"little"'), (4, '0.020*"food" + 0.016*"breakfast" + 0.012*"place" + 0.012*"good"')]
+FE5_Prior_Reviews
+[(0, '0.019*"food" + 0.017*"breakfast" + 0.016*"diner" + 0.011*"grill"'), (1, '0.019*"like" + 0.011*"food" + 0.011*"shop" + 0.011*"ketchup"'), (2, '0.020*"good" + 0.016*"coffee" + 0.016*"like" + 0.015*"food"'), (3, '0.020*"great" + 0.019*"place" + 0.016*"breakfast" + 0.016*"food"'), (4, '0.016*"food" + 0.011*"much" + 0.011*"order" + 0.011*"get"')]
+FE5_Post_Reviews
+[(0, '0.017*"old" + 0.016*"soda" + 0.015*"like" + 0.012*"breakfast"'), (1, '0.020*"place" + 0.020*"good" + 0.017*"food" + 0.013*"time"'), (2, '0.017*"chicken" + 0.016*"food" + 0.016*"breakfast" + 0.014*"back"'), (3, '0.020*"diner" + 0.018*"breakfast" + 0.013*"great" + 0.013*"food"'), (4, '0.015*"food" + 0.013*"like" + 0.012*"shop" + 0.012*"nice"')]
+MytiBurger.csv
+FE1_Prior_Reviews
+FE1_Post_Reviews
+FE2_Prior_Reviews
+[(0, '0.039*"cat" + 0.039*"fish" + 0.037*"tots" + 0.027*"sandwich"'), (1, '0.026*"order" + 0.018*"classic" + 0.018*"makes" + 0.018*"aunt"'), (2, '0.061*"place" + 0.060*"burger" + 0.041*"great" + 0.039*"good"'), (3, '0.028*"burger" + 0.028*"onion" + 0.028*"rings" + 0.028*"cheese"'), (4, '0.028*"good" + 0.028*"burger" + 0.028*"love" + 0.028*"always"')]
+FE2_Post_Reviews
+[(0, '0.025*"place" + 0.019*"get" + 0.013*"rings" + 0.013*"fried"'), (1, '0.017*"back" + 0.017*"good" + 0.017*"makes" + 0.017*"kentucky"'), (2, '0.034*"burger" + 0.021*"time" + 0.017*"fries" + 0.017*"food"'), (3, '0.030*"order" + 0.021*"favorite" + 0.021*"classic" + 0.011*"fries"'), (4, '0.038*"burger" + 0.029*"good" + 0.026*"place" + 0.021*"great"')]
+FE3_Prior_Reviews
+[(0, '0.035*"burger" + 0.027*"place" + 0.019*"food" + 0.016*"good"'), (1, '0.026*"good" + 0.022*"burger" + 0.016*"order" + 0.016*"fries"'), (2, '0.014*"ordered" + 0.014*"people" + 0.014*"peoples" + 0.014*"yall"'), (3, '0.013*"go" + 0.013*"onion" + 0.013*"rings" + 0.013*"friendly"'), (4, '0.022*"burger" + 0.012*"buffalo" + 0.012*"service" + 0.012*"turkey"')]
+FE3_Post_Reviews
+[(0, '0.017*"made" + 0.013*"order" + 0.010*"ketchup" + 0.010*"chicken"'), (1, '0.027*"burger" + 0.015*"order" + 0.015*"good" + 0.014*"food"'), (2, '0.027*"good" + 0.026*"burger" + 0.023*"place" + 0.021*"great"'), (3, '0.028*"good" + 0.012*"like" + 0.012*"fries" + 0.012*"get"'), (4, '0.015*"back" + 0.015*"place" + 0.012*"staff" + 0.012*"good"')]
+FE4_Prior_Reviews
+[(0, '0.017*"order" + 0.013*"small" + 0.013*"back" + 0.013*"burgers"'), (1, '0.025*"good" + 0.020*"food" + 0.018*"burger" + 0.015*"place"'), (2, '0.036*"good" + 0.014*"food" + 0.013*"mytiburger" + 0.013*"place"'), (3, '0.023*"burger" + 0.018*"time" + 0.014*"food" + 0.013*"got"'), (4, '0.033*"great" + 0.021*"burger" + 0.017*"place" + 0.016*"signature"')]
+FE4_Post_Reviews
+[(0, '0.029*"burger" + 0.027*"good" + 0.018*"place" + 0.016*"food"'), (1, '0.015*"great" + 0.015*"burger" + 0.015*"signature" + 0.012*"order"'), (2, '0.013*"food" + 0.013*"burger" + 0.013*"burgers" + 0.013*"fries"'), (3, '0.010*"clean" + 0.010*"just" + 0.010*"water" + 0.010*"excellent"'), (4, '0.027*"good" + 0.018*"rings" + 0.016*"onion" + 0.015*"burger"')]
+FE5_Prior_Reviews
+[(0, '0.034*"burger" + 0.022*"good" + 0.013*"bacon" + 0.012*"great"'), (1, '0.019*"good" + 0.018*"food" + 0.018*"burger" + 0.013*"time"'), (2, '0.024*"good" + 0.014*"place" + 0.013*"onion" + 0.013*"rings"'), (3, '0.015*"love" + 0.012*"dog" + 0.012*"inside" + 0.011*"food"'), (4, '0.012*"made" + 0.012*"food" + 0.009*"got" + 0.009*"ketchup"')]
+FE5_Post_Reviews
+[(0, '0.016*"made" + 0.015*"onion" + 0.015*"rings" + 0.013*"ketchup"'), (1, '0.035*"burger" + 0.023*"good" + 0.022*"place" + 0.017*"great"'), (2, '0.022*"burger" + 0.015*"food" + 0.014*"good" + 0.012*"fries"'), (3, '0.031*"good" + 0.011*"just" + 0.010*"burgers" + 0.010*"like"'), (4, '0.020*"order" + 0.012*"go" + 0.012*"food" + 0.011*"fries"')]
+ElPatio.csv
+FE1_Prior_Reviews
+[(0, '0.010*"bar" + 0.010*"blue" + 0.010*"good" + 0.010*"pocket"'), (1, '0.043*"bar" + 0.030*"arent" + 0.030*"good" + 0.030*"blue"'), (2, '0.010*"el" + 0.010*"decades" + 0.010*"like" + 0.010*"enchiladas"'), (3, '0.010*"like" + 0.010*"place" + 0.010*"el" + 0.010*"decades"'), (4, '0.028*"place" + 0.028*"decades" + 0.028*"el" + 0.028*"like"')]
+FE1_Post_Reviews
+[(0, '0.030*"like" + 0.030*"decades" + 0.030*"el" + 0.030*"place"'), (1, '0.010*"like" + 0.010*"place" + 0.010*"el" + 0.010*"decades"'), (2, '0.048*"bar" + 0.033*"good" + 0.033*"blue" + 0.033*"arent"'), (3, '0.010*"bar" + 0.010*"arent" + 0.010*"blue" + 0.010*"serve"'), (4, '0.010*"place" + 0.010*"el" + 0.010*"decades" + 0.010*"like"')]
+FE2_Prior_Reviews
+[(0, '0.032*"bar" + 0.026*"blue" + 0.021*"good" + 0.021*"arent"'), (1, '0.018*"place" + 0.018*"el" + 0.018*"club" + 0.018*"decades"'), (2, '0.026*"one" + 0.020*"2" + 0.020*"wait" + 0.020*"mins"'), (3, '0.023*"place" + 0.023*"husband" + 0.016*"come" + 0.016*"food"'), (4, '0.020*"good" + 0.020*"got" + 0.020*"margaritas" + 0.020*"pitcher"')]
+FE2_Post_Reviews
+[(0, '0.025*"bar" + 0.021*"blue" + 0.017*"arent" + 0.017*"good"'), (1, '0.012*"restaurant" + 0.012*"club" + 0.008*"el" + 0.008*"love"'), (2, '0.018*"margaritas" + 0.018*"good" + 0.018*"pitcher" + 0.018*"get"'), (3, '0.026*"like" + 0.022*"place" + 0.015*"blue" + 0.012*"good"'), (4, '0.014*"place" + 0.014*"food" + 0.014*"husband" + 0.010*"service"')]
+FE3_Prior_Reviews
+[(0, '0.016*"attentive" + 0.012*"blue" + 0.012*"margarita" + 0.012*"always"'), (1, '0.019*"got" + 0.016*"el" + 0.016*"place" + 0.013*"like"'), (2, '0.016*"good" + 0.012*"margaritas" + 0.012*"place" + 0.012*"food"'), (3, '0.012*"will" + 0.012*"club" + 0.012*"parking" + 0.010*"restaurant"'), (4, '0.017*"blue" + 0.013*"food" + 0.013*"bar" + 0.013*"place"')]
+FE3_Post_Reviews
+[(0, '0.018*"like" + 0.016*"place" + 0.016*"good" + 0.014*"food"'), (1, '0.022*"get" + 0.016*"best" + 0.014*"blue" + 0.011*"3"'), (2, '0.018*"good" + 0.013*"blue" + 0.013*"food" + 0.013*"bar"'), (3, '0.014*"one" + 0.014*"blue" + 0.012*"happy" + 0.012*"hour"'), (4, '0.012*"like" + 0.012*"place" + 0.012*"restaurant" + 0.010*"food"')]
+FE4_Prior_Reviews
+[(0, '0.013*"restaurant" + 0.010*"margaritas" + 0.010*"always" + 0.010*"can"'), (1, '0.013*"blue" + 0.012*"hour" + 0.012*"happy" + 0.011*"good"'), (2, '0.016*"blue" + 0.015*"food" + 0.013*"good" + 0.010*"one"'), (3, '0.017*"server" + 0.017*"rude" + 0.011*"place" + 0.011*"like"'), (4, '0.025*"like" + 0.015*"place" + 0.013*"food" + 0.010*"margarita"')]
+FE4_Post_Reviews
+[(0, '0.016*"food" + 0.012*"mexican" + 0.012*"delicious" + 0.008*"sit"'), (1, '0.024*"like" + 0.022*"place" + 0.010*"food" + 0.008*"dont"'), (2, '0.016*"hour" + 0.016*"happy" + 0.013*"blue" + 0.013*"restaurant"'), (3, '0.015*"rude" + 0.014*"good" + 0.014*"food" + 0.012*"great"'), (4, '0.010*"food" + 0.010*"good" + 0.009*"taste" + 0.009*"asked"')]
+FE5_Prior_Reviews
+[(0, '0.009*"server" + 0.009*"table" + 0.007*"one" + 0.007*"service"'), (1, '0.016*"food" + 0.013*"place" + 0.010*"like" + 0.010*"good"'), (2, '0.012*"blue" + 0.011*"good" + 0.010*"one" + 0.010*"service"'), (3, '0.016*"hour" + 0.016*"happy" + 0.015*"good" + 0.012*"menu"'), (4, '0.014*"taste" + 0.009*"enchiladas" + 0.009*"strange" + 0.007*"food"')]
+FE5_Post_Reviews
+[(0, '0.013*"blue" + 0.013*"good" + 0.011*"food" + 0.010*"margaritas"'), (1, '0.015*"food" + 0.014*"good" + 0.013*"like" + 0.011*"service"'), (2, '0.017*"drink" + 0.014*"great" + 0.009*"food" + 0.009*"dinner"'), (3, '0.015*"food" + 0.013*"good" + 0.013*"bar" + 0.011*"place"'), (4, '0.014*"restaurant" + 0.010*"food" + 0.009*"service" + 0.009*"one"')]
+Gaidos.csv
+FE1_Prior_Reviews
+FE1_Post_Reviews
+FE2_Prior_Reviews
+[(0, '0.010*"even" + 0.008*"service" + 0.008*"people" + 0.008*"back"'), (1, '0.016*"crab" + 0.012*"galveston" + 0.012*"like" + 0.009*"ordered"'), (2, '0.012*"place" + 0.012*"time" + 0.010*"gaidos" + 0.010*"food"'), (3, '0.012*"time" + 0.012*"shrimp" + 0.010*"ordered" + 0.010*"ive"'), (4, '0.011*"one" + 0.011*"list" + 0.006*"came" + 0.006*"service"')]
+FE2_Post_Reviews
+[(0, '0.012*"good" + 0.011*"food" + 0.010*"time" + 0.009*"place"'), (1, '0.014*"good" + 0.012*"shrimp" + 0.010*"food" + 0.009*"service"'), (2, '0.010*"shrimp" + 0.008*"ordered" + 0.008*"great" + 0.008*"mahi"'), (3, '0.013*"gaidos" + 0.011*"crab" + 0.009*"ordered" + 0.009*"place"'), (4, '0.011*"food" + 0.010*"restaurant" + 0.008*"time" + 0.007*"go"')]
+FE3_Prior_Reviews
+[(0, '0.012*"service" + 0.008*"place" + 0.007*"galveston" + 0.007*"came"'), (1, '0.016*"good" + 0.009*"food" + 0.009*"shrimp" + 0.008*"service"'), (2, '0.011*"food" + 0.010*"shrimp" + 0.009*"fish" + 0.008*"good"'), (3, '0.010*"food" + 0.010*"great" + 0.010*"shrimp" + 0.009*"good"'), (4, '0.011*"food" + 0.010*"time" + 0.010*"shrimp" + 0.008*"go"')]
+FE3_Post_Reviews
+[(0, '0.014*"good" + 0.013*"food" + 0.013*"shrimp" + 0.011*"great"'), (1, '0.012*"time" + 0.010*"seafood" + 0.010*"food" + 0.008*"service"'), (2, '0.010*"ordered" + 0.009*"seafood" + 0.009*"shrimp" + 0.009*"mahi"'), (3, '0.013*"food" + 0.011*"shrimp" + 0.009*"service" + 0.008*"good"'), (4, '0.012*"ordered" + 0.009*"mahi" + 0.009*"good" + 0.008*"service"')]
+FE4_Prior_Reviews
+[(0, '0.011*"ordered" + 0.009*"shrimp" + 0.009*"seafood" + 0.007*"gaidos"'), (1, '0.012*"food" + 0.010*"service" + 0.008*"shrimp" + 0.008*"place"'), (2, '0.011*"mahi" + 0.010*"service" + 0.010*"ordered" + 0.009*"time"'), (3, '0.016*"food" + 0.012*"service" + 0.010*"time" + 0.010*"good"'), (4, '0.020*"good" + 0.012*"crab" + 0.012*"shrimp" + 0.010*"place"')]
+FE4_Post_Reviews
+[(0, '0.013*"good" + 0.013*"shrimp" + 0.011*"food" + 0.009*"ordered"'), (1, '0.012*"restaurant" + 0.011*"place" + 0.011*"seafood" + 0.010*"good"'), (2, '0.010*"food" + 0.009*"back" + 0.009*"just" + 0.009*"crab"'), (3, '0.017*"food" + 0.012*"service" + 0.010*"great" + 0.010*"good"'), (4, '0.009*"good" + 0.009*"seafood" + 0.009*"ordered" + 0.008*"food"')]
+FE5_Prior_Reviews
+[(0, '0.015*"food" + 0.012*"good" + 0.011*"delicious" + 0.010*"service"'), (1, '0.009*"good" + 0.009*"restaurant" + 0.009*"shrimp" + 0.009*"service"'), (2, '0.012*"food" + 0.011*"crab" + 0.009*"ordered" + 0.009*"place"'), (3, '0.011*"food" + 0.011*"great" + 0.011*"time" + 0.009*"place"'), (4, '0.015*"good" + 0.013*"seafood" + 0.012*"shrimp" + 0.010*"food"')]
+FE5_Post_Reviews
+[(0, '0.012*"food" + 0.011*"great" + 0.011*"shrimp" + 0.010*"back"'), (1, '0.011*"seafood" + 0.010*"shrimp" + 0.010*"food" + 0.009*"good"'), (2, '0.015*"seafood" + 0.011*"food" + 0.009*"good" + 0.008*"place"'), (3, '0.013*"food" + 0.010*"good" + 0.009*"restaurant" + 0.008*"place"'), (4, '0.011*"service" + 0.010*"shrimp" + 0.009*"food" + 0.008*"gaidos"')]
+Spanish.csv
+FE1_Prior_Reviews
+[(0, '0.030*"food" + 0.030*"houston" + 0.030*"place" + 0.030*"tex"'), (1, '0.052*"place" + 0.052*"houston" + 0.052*"food" + 0.028*"spending"'), (2, '0.030*"place" + 0.030*"food" + 0.030*"houston" + 0.030*"ever"'), (3, '0.030*"place" + 0.030*"houston" + 0.030*"food" + 0.030*"ever"'), (4, '0.030*"houston" + 0.030*"seriously" + 0.030*"tex" + 0.030*"spending"')]
+FE1_Post_Reviews
+[(0, '0.030*"houston" + 0.030*"food" + 0.030*"place" + 0.030*"spending"'), (1, '0.030*"houston" + 0.030*"food" + 0.030*"place" + 0.030*"one"'), (2, '0.030*"houston" + 0.030*"tex" + 0.030*"dining" + 0.030*"place"'), (3, '0.053*"place" + 0.053*"food" + 0.053*"houston" + 0.028*"ruchis"'), (4, '0.030*"food" + 0.030*"houston" + 0.030*"place" + 0.030*"habits"')]
+FE2_Prior_Reviews
+[(0, '0.016*"gave" + 0.016*"food" + 0.011*"average" + 0.011*"can"'), (1, '0.028*"food" + 0.028*"9" + 0.015*"tastes" + 0.015*"good"'), (2, '0.022*"like" + 0.022*"want" + 0.022*"60" + 0.022*"also"'), (3, '0.029*"tex" + 0.029*"mex" + 0.029*"chicken" + 0.029*"order"'), (4, '0.037*"food" + 0.037*"houston" + 0.037*"place" + 0.019*"around"')]
+FE2_Post_Reviews
+[(0, '0.034*"9" + 0.019*"pm" + 0.019*"clearly" + 0.019*"locked"'), (1, '0.026*"better" + 0.026*"average" + 0.026*"food" + 0.014*"gave"'), (2, '0.029*"mex" + 0.029*"tex" + 0.029*"chicken" + 0.029*"order"'), (3, '0.038*"food" + 0.021*"good" + 0.021*"always" + 0.021*"authentic"'), (4, '0.026*"food" + 0.022*"place" + 0.018*"houston" + 0.013*"quality"')]
+FE3_Prior_Reviews
+[(0, '0.020*"good" + 0.014*"time" + 0.014*"wanted" + 0.014*"close"'), (1, '0.020*"tex" + 0.020*"mex" + 0.020*"chicken" + 0.020*"order"'), (2, '0.023*"strike" + 0.016*"cheese" + 0.016*"good" + 0.016*"food"'), (3, '0.032*"food" + 0.032*"houston" + 0.026*"place" + 0.026*"better"'), (4, '0.012*"food" + 0.012*"gave" + 0.012*"ive" + 0.012*"business"')]
+FE3_Post_Reviews
+[(0, '0.017*"old" + 0.010*"great" + 0.010*"around" + 0.010*"back"'), (1, '0.018*"place" + 0.016*"food" + 0.013*"houston" + 0.011*"tex"'), (2, '0.029*"food" + 0.011*"must" + 0.011*"overpriced" + 0.011*"right"'), (3, '0.020*"good" + 0.020*"margarita" + 0.015*"told" + 0.015*"food"'), (4, '0.015*"strike" + 0.010*"great" + 0.010*"houston" + 0.010*"better"')]
+FE4_Prior_Reviews
+[(0, '0.020*"made" + 0.017*"good" + 0.017*"ive" + 0.013*"taste"'), (1, '0.026*"food" + 0.019*"houston" + 0.019*"around" + 0.015*"place"'), (2, '0.013*"mex" + 0.013*"tex" + 0.007*"best" + 0.007*"fried"'), (3, '0.036*"food" + 0.027*"told" + 0.027*"margarita" + 0.018*"order"'), (4, '0.016*"family" + 0.016*"food" + 0.012*"strike" + 0.012*"always"')]
+FE4_Post_Reviews
+[(0, '0.018*"food" + 0.015*"place" + 0.015*"houston" + 0.010*"mex"'), (1, '0.031*"food" + 0.016*"service" + 0.016*"good" + 0.012*"best"'), (2, '0.018*"good" + 0.015*"friendly" + 0.015*"time" + 0.015*"old"'), (3, '0.010*"food" + 0.010*"ive" + 0.010*"time" + 0.010*"gave"'), (4, '0.018*"margarita" + 0.018*"made" + 0.015*"told" + 0.013*"good"')]
+FE5_Prior_Reviews
+[(0, '0.016*"food" + 0.016*"told" + 0.014*"margarita" + 0.012*"even"'), (1, '0.019*"food" + 0.015*"good" + 0.015*"great" + 0.015*"old"'), (2, '0.016*"good" + 0.014*"ive" + 0.012*"made" + 0.010*"theyre"'), (3, '0.013*"food" + 0.012*"dad" + 0.009*"cheese" + 0.009*"like"'), (4, '0.029*"food" + 0.018*"houston" + 0.016*"place" + 0.012*"tex"')]
+FE5_Post_Reviews
+[(0, '0.018*"come" + 0.014*"even" + 0.013*"like" + 0.012*"food"'), (1, '0.020*"food" + 0.014*"dad" + 0.011*"restaurant" + 0.010*"meal"'), (2, '0.014*"food" + 0.010*"order" + 0.010*"pm" + 0.010*"margaritas"'), (3, '0.017*"good" + 0.011*"spanish" + 0.009*"reminds" + 0.009*"enjoyed"'), (4, '0.039*"food" + 0.019*"good" + 0.018*"service" + 0.016*"margarita"')]
+Houstons.csv
+FE1_Prior_Reviews
+[(0, '0.038*"bread" + 0.038*"eat" + 0.038*"comparing" + 0.038*"cheesy"'), (1, '0.038*"sweet" + 0.038*"soul" + 0.038*"will" + 0.038*"food"'), (2, '0.086*"sweet" + 0.086*"food" + 0.059*"soul" + 0.059*"will"'), (3, '0.038*"oxtails" + 0.038*"places" + 0.038*"saucy" + 0.038*"often"'), (4, '0.039*"food" + 0.039*"sweet" + 0.038*"will" + 0.038*"soul"')]
+FE1_Post_Reviews
+[(0, '0.038*"oxtails" + 0.038*"places" + 0.038*"bread" + 0.038*"potatoes"'), (1, '0.038*"sweet" + 0.038*"food" + 0.038*"will" + 0.038*"soul"'), (2, '0.090*"food" + 0.090*"sweet" + 0.061*"will" + 0.061*"soul"'), (3, '0.038*"regardless" + 0.038*"dont" + 0.038*"oxtails" + 0.038*"eat"'), (4, '0.039*"sweet" + 0.039*"food" + 0.039*"soul" + 0.039*"will"')]
+FE2_Prior_Reviews
+[(0, '0.045*"food" + 0.019*"good" + 0.019*"soul" + 0.016*"place"'), (1, '0.016*"mac" + 0.016*"cheese" + 0.016*"friendly" + 0.016*"place"'), (2, '0.046*"sweet" + 0.046*"food" + 0.031*"will" + 0.031*"soul"'), (3, '0.003*"food" + 0.003*"soul" + 0.003*"good" + 0.003*"get"'), (4, '0.021*"food" + 0.016*"good" + 0.011*"got" + 0.011*"just"')]
+FE2_Post_Reviews
+[(0, '0.014*"food" + 0.010*"day" + 0.010*"sides" + 0.010*"one"'), (1, '0.034*"food" + 0.011*"got" + 0.010*"oxtails" + 0.010*"get"'), (2, '0.034*"food" + 0.023*"good" + 0.020*"soul" + 0.020*"sweet"'), (3, '0.023*"food" + 0.012*"like" + 0.012*"soul" + 0.012*"area"'), (4, '0.014*"food" + 0.014*"good" + 0.014*"overall" + 0.010*"soul"')]
+FE3_Prior_Reviews
+[(0, '0.017*"good" + 0.016*"food" + 0.010*"like" + 0.010*"friendly"'), (1, '0.037*"food" + 0.021*"good" + 0.017*"soul" + 0.011*"go"'), (2, '0.036*"food" + 0.015*"soul" + 0.014*"pork" + 0.013*"chops"'), (3, '0.011*"food" + 0.011*"soul" + 0.007*"just" + 0.007*"dont"'), (4, '0.029*"food" + 0.016*"sweet" + 0.016*"oxtails" + 0.013*"mac"')]
+FE3_Post_Reviews
+[(0, '0.011*"sides" + 0.009*"food" + 0.009*"good" + 0.008*"one"'), (1, '0.015*"food" + 0.010*"2" + 0.008*"smothered" + 0.008*"greens"'), (2, '0.030*"food" + 0.012*"good" + 0.011*"place" + 0.010*"like"'), (3, '0.041*"food" + 0.018*"good" + 0.016*"soul" + 0.014*"cheese"'), (4, '0.026*"food" + 0.014*"good" + 0.010*"chops" + 0.010*"pork"')]
+FE4_Prior_Reviews
+[(0, '0.022*"food" + 0.012*"yams" + 0.011*"get" + 0.011*"chicken"'), (1, '0.037*"food" + 0.032*"good" + 0.015*"back" + 0.011*"place"'), (2, '0.032*"food" + 0.013*"soul" + 0.013*"good" + 0.012*"cheese"'), (3, '0.027*"food" + 0.013*"smothered" + 0.011*"good" + 0.010*"cheese"'), (4, '0.028*"food" + 0.014*"good" + 0.012*"soul" + 0.011*"go"')]
+FE4_Post_Reviews
+[(0, '0.024*"food" + 0.015*"good" + 0.011*"wasnt" + 0.010*"chicken"'), (1, '0.039*"food" + 0.017*"soul" + 0.014*"good" + 0.010*"just"'), (2, '0.022*"food" + 0.012*"mac" + 0.012*"good" + 0.010*"cheese"'), (3, '0.038*"food" + 0.017*"soul" + 0.015*"good" + 0.009*"one"'), (4, '0.014*"food" + 0.010*"good" + 0.010*"mac" + 0.010*"go"')]
+FE5_Prior_Reviews
+[(0, '0.027*"food" + 0.012*"like" + 0.011*"back" + 0.010*"yams"'), (1, '0.023*"food" + 0.009*"good" + 0.008*"like" + 0.008*"gravy"'), (2, '0.036*"food" + 0.018*"good" + 0.015*"soul" + 0.011*"smothered"'), (3, '0.012*"first" + 0.012*"line" + 0.012*"food" + 0.007*"place"'), (4, '0.025*"food" + 0.013*"good" + 0.012*"soul" + 0.010*"smothered"')]
+FE5_Post_Reviews
+[(0, '0.014*"cheese" + 0.014*"mac" + 0.013*"food" + 0.012*"smothered"'), (1, '0.023*"food" + 0.012*"yams" + 0.011*"great" + 0.009*"place"'), (2, '0.036*"food" + 0.020*"good" + 0.017*"soul" + 0.011*"cheese"'), (3, '0.032*"food" + 0.013*"good" + 0.010*"go" + 0.010*"soul"'), (4, '0.029*"food" + 0.017*"good" + 0.010*"chicken" + 0.010*"soul"')]
+Pizzitolas.csv
+FE1_Prior_Reviews
+[(0, '0.059*"ribs" + 0.059*"lunch" + 0.059*"nothing" + 0.059*"loop"'), (1, '0.103*"ribs" + 0.056*"place" + 0.056*"fancy" + 0.056*"best"'), (2, '0.059*"north" + 0.059*"loop" + 0.059*"lunch" + 0.059*"great"'), (3, '0.059*"lunch" + 0.059*"loop" + 0.059*"grab" + 0.059*"fancy"'), (4, '0.059*"lunch" + 0.059*"nothing" + 0.059*"place" + 0.059*"best"')]
+FE1_Post_Reviews
+[(0, '0.059*"ribs" + 0.059*"best" + 0.059*"north" + 0.059*"fancy"'), (1, '0.059*"fancy" + 0.059*"joint" + 0.059*"best" + 0.059*"bare"'), (2, '0.059*"best" + 0.059*"north" + 0.059*"joint" + 0.059*"lunch"'), (3, '0.059*"ribs" + 0.059*"fancy" + 0.059*"north" + 0.059*"loop"'), (4, '0.107*"ribs" + 0.056*"houston" + 0.056*"grab" + 0.056*"place"')]
+FE2_Prior_Reviews
+[(0, '0.018*"didnt" + 0.013*"ribs" + 0.013*"bbq" + 0.013*"dinner"'), (1, '0.002*"ribs" + 0.002*"back" + 0.002*"food" + 0.002*"95"'), (2, '0.022*"ribs" + 0.013*"bbq" + 0.012*"brisket" + 0.010*"beans"'), (3, '0.021*"ribs" + 0.014*"great" + 0.014*"good" + 0.011*"will"'), (4, '0.020*"ribs" + 0.020*"5" + 0.015*"brisket" + 0.015*"good"')]
+FE2_Post_Reviews
+[(0, '0.019*"brisket" + 0.016*"ribs" + 0.016*"bbq" + 0.010*"best"'), (1, '0.027*"ribs" + 0.012*"place" + 0.012*"just" + 0.010*"bbq"'), (2, '0.025*"ribs" + 0.020*"good" + 0.015*"bbq" + 0.010*"great"'), (3, '0.016*"good" + 0.013*"bbq" + 0.013*"restaurant" + 0.010*"time"'), (4, '0.017*"ribs" + 0.015*"5" + 0.015*"food" + 0.013*"bbq"')]
+FE3_Prior_Reviews
+[(0, '0.021*"ribs" + 0.013*"bbq" + 0.009*"place" + 0.009*"time"'), (1, '0.022*"bbq" + 0.019*"good" + 0.019*"ribs" + 0.014*"brisket"'), (2, '0.015*"ribs" + 0.012*"brisket" + 0.010*"texas" + 0.009*"im"'), (3, '0.024*"ribs" + 0.021*"bbq" + 0.019*"good" + 0.017*"brisket"'), (4, '0.018*"ribs" + 0.014*"barbecue" + 0.010*"houston" + 0.010*"pepper"')]
+FE3_Post_Reviews
+[(0, '0.021*"ribs" + 0.015*"good" + 0.015*"bbq" + 0.012*"beef"'), (1, '0.018*"good" + 0.011*"flavor" + 0.010*"get" + 0.010*"pretty"'), (2, '0.030*"ribs" + 0.014*"best" + 0.014*"houston" + 0.012*"great"'), (3, '0.021*"bbq" + 0.017*"ribs" + 0.011*"get" + 0.011*"great"'), (4, '0.017*"brisket" + 0.014*"5" + 0.014*"best" + 0.011*"barbecue"')]
+FE4_Prior_Reviews
+[(0, '0.024*"beef" + 0.024*"chopped" + 0.019*"potato" + 0.015*"baked"'), (1, '0.022*"ribs" + 0.017*"great" + 0.013*"place" + 0.011*"bbq"'), (2, '0.016*"ribs" + 0.012*"bbq" + 0.010*"texas" + 0.008*"go"'), (3, '0.024*"ribs" + 0.015*"bbq" + 0.012*"food" + 0.011*"back"'), (4, '0.020*"good" + 0.020*"bbq" + 0.020*"brisket" + 0.013*"best"')]
+FE4_Post_Reviews
+[(0, '0.023*"beef" + 0.022*"chopped" + 0.021*"potato" + 0.018*"ribs"'), (1, '0.011*"get" + 0.011*"5" + 0.010*"brisket" + 0.009*"3"'), (2, '0.021*"bbq" + 0.009*"like" + 0.009*"server" + 0.009*"brisket"'), (3, '0.017*"ribs" + 0.014*"bbq" + 0.011*"good" + 0.009*"place"'), (4, '0.027*"ribs" + 0.013*"food" + 0.012*"great" + 0.012*"bbq"')]
+FE5_Prior_Reviews
+[(0, '0.016*"get" + 0.013*"guy" + 0.010*"prices" + 0.007*"like"'), (1, '0.026*"ribs" + 0.010*"brisket" + 0.009*"bbq" + 0.008*"food"'), (2, '0.014*"good" + 0.011*"ribs" + 0.011*"brisket" + 0.011*"like"'), (3, '0.018*"beef" + 0.017*"chopped" + 0.014*"potato" + 0.012*"good"'), (4, '0.029*"bbq" + 0.025*"ribs" + 0.010*"brisket" + 0.009*"sauce"')]
+FE5_Post_Reviews
+[(0, '0.014*"bbq" + 0.013*"give" + 0.011*"ribs" + 0.011*"good"'), (1, '0.019*"ribs" + 0.015*"good" + 0.012*"brisket" + 0.009*"get"'), (2, '0.024*"ribs" + 0.015*"bbq" + 0.011*"great" + 0.010*"service"'), (3, '0.011*"great" + 0.011*"place" + 0.009*"houston" + 0.007*"bbq"'), (4, '0.020*"bbq" + 0.019*"ribs" + 0.009*"potato" + 0.009*"beef"')]
+Brenners.csv
+FE1_Prior_Reviews
+[(0, '0.008*"get" + 0.008*"make" + 0.008*"place" + 0.008*"dont"'), (1, '0.008*"dont" + 0.008*"wait" + 0.008*"get" + 0.008*"make"'), (2, '0.008*"dont" + 0.008*"get" + 0.008*"make" + 0.008*"wait"'), (3, '0.028*"get" + 0.023*"make" + 0.023*"dont" + 0.017*"staff"'), (4, '0.008*"get" + 0.008*"dont" + 0.008*"make" + 0.008*"staff"')]
+FE1_Post_Reviews
+[(0, '0.030*"get" + 0.024*"make" + 0.024*"dont" + 0.018*"place"'), (1, '0.008*"get" + 0.008*"make" + 0.008*"dont" + 0.008*"order"'), (2, '0.008*"get" + 0.008*"dont" + 0.008*"make" + 0.008*"staff"'), (3, '0.008*"get" + 0.008*"dont" + 0.008*"make" + 0.008*"place"'), (4, '0.008*"get" + 0.008*"dont" + 0.008*"wait" + 0.008*"make"')]
+FE2_Prior_Reviews
+[(0, '0.014*"service" + 0.014*"wife" + 0.011*"just" + 0.011*"better"'), (1, '0.017*"get" + 0.017*"good" + 0.017*"better" + 0.015*"crab"'), (2, '0.023*"event" + 0.012*"private" + 0.012*"great" + 0.012*"yum"'), (3, '0.024*"get" + 0.019*"dont" + 0.019*"make" + 0.014*"place"'), (4, '0.013*"just" + 0.009*"place" + 0.009*"like" + 0.009*"service"')]
+FE2_Post_Reviews
+[(0, '0.015*"event" + 0.012*"great" + 0.012*"get" + 0.012*"top"'), (1, '0.015*"get" + 0.011*"make" + 0.010*"better" + 0.010*"service"'), (2, '0.027*"good" + 0.014*"service" + 0.014*"back" + 0.014*"old"'), (3, '0.011*"place" + 0.011*"disappointed" + 0.011*"atmosphere" + 0.006*"wife"'), (4, '0.012*"just" + 0.008*"service" + 0.008*"food" + 0.008*"filet"')]
+FE3_Prior_Reviews
+[(0, '0.015*"great" + 0.015*"top" + 0.014*"food" + 0.012*"get"'), (1, '0.011*"great" + 0.011*"time" + 0.011*"enough" + 0.011*"hour"'), (2, '0.014*"good" + 0.012*"service" + 0.011*"crab" + 0.010*"steak"'), (3, '0.016*"place" + 0.016*"get" + 0.014*"dont" + 0.012*"make"'), (4, '0.011*"food" + 0.011*"service" + 0.011*"dessert" + 0.008*"will"')]
+FE3_Post_Reviews
+[(0, '0.018*"get" + 0.013*"make" + 0.013*"dont" + 0.012*"time"'), (1, '0.015*"crab" + 0.013*"food" + 0.012*"service" + 0.011*"great"'), (2, '0.017*"good" + 0.012*"service" + 0.010*"better" + 0.010*"great"'), (3, '0.009*"service" + 0.009*"just" + 0.008*"food" + 0.008*"better"'), (4, '0.010*"nice" + 0.006*"atmosphere" + 0.006*"experience" + 0.006*"excellent"')]
+FE4_Prior_Reviews
+[(0, '0.013*"just" + 0.013*"crab" + 0.008*"make" + 0.008*"wine"'), (1, '0.010*"service" + 0.009*"food" + 0.009*"wife" + 0.009*"two"'), (2, '0.021*"get" + 0.016*"good" + 0.012*"place" + 0.010*"make"'), (3, '0.016*"great" + 0.016*"food" + 0.013*"service" + 0.010*"steak"'), (4, '0.014*"great" + 0.012*"food" + 0.010*"evening" + 0.010*"dessert"')]
+FE4_Post_Reviews
+[(0, '0.012*"good" + 0.011*"get" + 0.010*"better" + 0.009*"steak"'), (1, '0.010*"good" + 0.008*"get" + 0.007*"wine" + 0.007*"ordered"'), (2, '0.007*"filet" + 0.006*"great" + 0.006*"big" + 0.006*"pink"'), (3, '0.014*"service" + 0.014*"great" + 0.013*"food" + 0.009*"dessert"'), (4, '0.014*"great" + 0.013*"service" + 0.011*"amazing" + 0.010*"fantastic"')]
+FE5_Prior_Reviews
+[(0, '0.010*"came" + 0.007*"night" + 0.007*"nice" + 0.007*"good"'), (1, '0.023*"great" + 0.015*"crab" + 0.015*"food" + 0.012*"service"'), (2, '0.012*"make" + 0.011*"will" + 0.010*"get" + 0.010*"service"'), (3, '0.014*"good" + 0.010*"better" + 0.009*"ordered" + 0.009*"get"'), (4, '0.014*"good" + 0.010*"just" + 0.007*"two" + 0.007*"service"')]
+FE5_Post_Reviews
+[(0, '0.016*"steak" + 0.015*"good" + 0.012*"nice" + 0.011*"medium"'), (1, '0.013*"great" + 0.012*"food" + 0.009*"service" + 0.008*"ordered"'), (2, '0.014*"good" + 0.012*"steak" + 0.009*"great" + 0.008*"better"'), (3, '0.011*"service" + 0.010*"good" + 0.009*"get" + 0.008*"meal"'), (4, '0.009*"came" + 0.008*"delicious" + 0.008*"table" + 0.007*"well"')]
+Avalon.csv
+FE1_Prior_Reviews
+[(0, '0.013*"line" + 0.013*"youd" + 0.013*"delicious" + 0.013*"diner"'), (1, '0.013*"line" + 0.013*"waitress" + 0.013*"true" + 0.013*"long"'), (2, '0.013*"line" + 0.013*"diner" + 0.013*"waitress" + 0.013*"long"'), (3, '0.013*"line" + 0.013*"food" + 0.013*"long" + 0.013*"youd"'), (4, '0.032*"line" + 0.022*"true" + 0.022*"delicious" + 0.022*"expect"')]
+FE1_Post_Reviews
+[(0, '0.013*"line" + 0.013*"food" + 0.013*"youd" + 0.013*"expect"'), (1, '0.013*"line" + 0.013*"expect" + 0.013*"true" + 0.013*"youd"'), (2, '0.013*"line" + 0.013*"diner" + 0.013*"true" + 0.013*"waitress"'), (3, '0.013*"line" + 0.013*"youd" + 0.013*"food" + 0.013*"waitress"'), (4, '0.034*"line" + 0.023*"diner" + 0.023*"delicious" + 0.023*"long"')]
+FE2_Prior_Reviews
+[(0, '0.029*"service" + 0.022*"counter" + 0.015*"good" + 0.015*"never"'), (1, '0.029*"line" + 0.020*"long" + 0.020*"expect" + 0.020*"diner"'), (2, '0.031*"just" + 0.021*"long" + 0.021*"can" + 0.021*"place"'), (3, '0.022*"great" + 0.022*"food" + 0.022*"breakfast" + 0.022*"ordered"'), (4, '0.005*"diner" + 0.005*"line" + 0.005*"place" + 0.005*"long"')]
+FE2_Post_Reviews
+[(0, '0.024*"line" + 0.020*"food" + 0.020*"long" + 0.016*"waitress"'), (1, '0.021*"breakfast" + 0.016*"service" + 0.016*"great" + 0.016*"counter"'), (2, '0.003*"ive" + 0.003*"diner" + 0.003*"breakfast" + 0.003*"great"'), (3, '0.027*"just" + 0.020*"great" + 0.020*"place" + 0.014*"can"'), (4, '0.017*"omelette" + 0.012*"hashbrowns" + 0.012*"portion" + 0.012*"avalon"')]
+FE3_Prior_Reviews
+[(0, '0.023*"great" + 0.018*"breakfast" + 0.012*"get" + 0.012*"diner"'), (1, '0.021*"will" + 0.011*"great" + 0.011*"perfect" + 0.011*"ordered"'), (2, '0.003*"breakfast" + 0.003*"line" + 0.002*"ive" + 0.002*"can"'), (3, '0.019*"good" + 0.019*"food" + 0.019*"place" + 0.019*"breakfast"'), (4, '0.018*"line" + 0.015*"diner" + 0.012*"food" + 0.012*"waitress"')]
+FE3_Post_Reviews
+[(0, '0.017*"great" + 0.016*"food" + 0.014*"line" + 0.013*"breakfast"'), (1, '0.021*"breakfast" + 0.019*"good" + 0.016*"cooked" + 0.014*"food"'), (2, '0.020*"just" + 0.011*"long" + 0.011*"place" + 0.011*"diner"'), (3, '0.018*"breakfast" + 0.016*"place" + 0.013*"go" + 0.011*"service"'), (4, '0.016*"will" + 0.009*"diner" + 0.009*"like" + 0.009*"time"')]
+FE4_Prior_Reviews
+[(0, '0.013*"breakfast" + 0.011*"inside" + 0.011*"get" + 0.008*"go"'), (1, '0.016*"breakfast" + 0.011*"decent" + 0.011*"place" + 0.011*"good"'), (2, '0.017*"busy" + 0.015*"place" + 0.014*"time" + 0.014*"spot"'), (3, '0.016*"breakfast" + 0.011*"great" + 0.011*"avalon" + 0.008*"time"'), (4, '0.019*"food" + 0.017*"good" + 0.014*"breakfast" + 0.013*"bacon"')]
+FE4_Post_Reviews
+[(0, '0.017*"cooked" + 0.017*"just" + 0.015*"good" + 0.013*"breakfast"'), (1, '0.016*"service" + 0.015*"breakfast" + 0.012*"diner" + 0.012*"back"'), (2, '0.023*"food" + 0.018*"like" + 0.015*"place" + 0.015*"breakfast"'), (3, '0.019*"breakfast" + 0.016*"food" + 0.016*"place" + 0.014*"line"'), (4, '0.015*"great" + 0.011*"food" + 0.009*"quickly" + 0.009*"time"')]
+FE5_Prior_Reviews
+[(0, '0.016*"breakfast" + 0.016*"diner" + 0.014*"service" + 0.013*"food"'), (1, '0.014*"just" + 0.011*"place" + 0.011*"inside" + 0.010*"get"'), (2, '0.016*"food" + 0.016*"back" + 0.013*"go" + 0.013*"place"'), (3, '0.023*"good" + 0.019*"waffle" + 0.017*"breakfast" + 0.015*"cooked"'), (4, '0.019*"breakfast" + 0.016*"food" + 0.013*"like" + 0.012*"place"')]
+FE5_Post_Reviews
+[(0, '0.014*"breakfast" + 0.014*"food" + 0.012*"good" + 0.010*"well"'), (1, '0.014*"good" + 0.014*"just" + 0.013*"place" + 0.012*"breakfast"'), (2, '0.013*"food" + 0.013*"always" + 0.013*"diner" + 0.013*"great"'), (3, '0.014*"breakfast" + 0.013*"back" + 0.013*"diner" + 0.012*"service"'), (4, '0.031*"breakfast" + 0.019*"place" + 0.017*"diner" + 0.015*"food"')]
