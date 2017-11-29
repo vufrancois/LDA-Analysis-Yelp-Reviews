@@ -48,7 +48,7 @@ for name in restaurants:
     FE5_Post = data[(data['Review Date'] <= '2017-11-27') & (data['Review Date'] > '2016-08-17')]
     FE5_Post_Reviews = list(FE5_Post.Review)
 
-    MasterReviewList = [FE5_Prior_Reviews]
+    MasterReviewList = [FE5_Post_Reviews]
     #FE1_Post_Reviews, FE2_Prior_Reviews, FE2_Post_Reviews, FE3_Prior_Reviews, FE3_Post_Reviews, FE4_Prior_Reviews, FE4_Post_Reviews, FE5_Prior_Reviews, FE5_Post_Reviews]
     #MasterReviewListString = ["FE_Prior_Reviews", "FE1_Post_Reviews", "FE2_Prior_Reviews", "FE2_Post_Reviews", "FE3_Prior_Reviews", "FE3_Post_Reviews", "FE4_Prior_Reviews", "FE4_Post_Reviews", "FE5_Prior_Reviews", "FE5_Post_Reviews"]
     tokenizer = RegexpTokenizer(r'\w+')
@@ -80,8 +80,8 @@ for name in restaurants:
 
         dictionary = corpora.Dictionary(Review_Stopped)
         corpus = [dictionary.doc2bow(text) for text in Review_Stopped]
-        MmCorpus.serialize('reviews.mm', corpus)
-        dictionary.save('reviews.dict')
+        MmCorpus.serialize('reviews2.mm', corpus)
+        dictionary.save('reviews2.dict')
 
         #print(MasterReviewListString[labelCounter])
         #labelCounter += 1
@@ -90,7 +90,6 @@ for name in restaurants:
         if len(dictionary) > 0:
             ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=5, id2word = dictionary, passes=20)
             ldamodel.print_topics(num_topics=5, num_words=4)
-
-import pyLDAvis.gensim
-vis = pyLDAvis.gensim.prepare(ldamodel, corpus, dictionary)
-pyLDAvis.display(vis)
+    import pyLDAvis.gensim
+    vis = pyLDAvis.gensim.prepare(ldamodel, corpus, dictionary)
+    pyLDAvis.display(vis)

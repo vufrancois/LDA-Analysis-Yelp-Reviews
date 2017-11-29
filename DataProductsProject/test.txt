@@ -440,3 +440,24 @@ FE5_Prior_Reviews
 [(0, '0.016*"breakfast" + 0.016*"diner" + 0.014*"service" + 0.013*"food"'), (1, '0.014*"just" + 0.011*"place" + 0.011*"inside" + 0.010*"get"'), (2, '0.016*"food" + 0.016*"back" + 0.013*"go" + 0.013*"place"'), (3, '0.023*"good" + 0.019*"waffle" + 0.017*"breakfast" + 0.015*"cooked"'), (4, '0.019*"breakfast" + 0.016*"food" + 0.013*"like" + 0.012*"place"')]
 FE5_Post_Reviews
 [(0, '0.014*"breakfast" + 0.014*"food" + 0.012*"good" + 0.010*"well"'), (1, '0.014*"good" + 0.014*"just" + 0.013*"place" + 0.012*"breakfast"'), (2, '0.013*"food" + 0.013*"always" + 0.013*"diner" + 0.013*"great"'), (3, '0.014*"breakfast" + 0.013*"back" + 0.013*"diner" + 0.012*"service"'), (4, '0.031*"breakfast" + 0.019*"place" + 0.017*"diner" + 0.015*"food"')]
+Frenchys.csv
+FE1_Prior_Reviews
+[(0, '0.058*"place" + 0.044*"2" + 0.030*"houston" + 0.030*"tha"'), (1, '0.006*"chicken" + 0.006*"im" + 0.006*"fried" + 0.006*"just"'), (2, '0.037*"chicken" + 0.037*"frenchys" + 0.037*"fried" + 0.020*"go"'), (3, '0.031*"chicken" + 0.026*"im" + 0.021*"fried" + 0.021*"just"'), (4, '0.029*"cant" + 0.029*"frenchys" + 0.029*"ive" + 0.029*"twice"')]
+FE1_Post_Reviews
+[(0, '0.006*"chicken" + 0.006*"place" + 0.006*"im" + 0.006*"fried"'), (1, '0.034*"chicken" + 0.028*"im" + 0.023*"fried" + 0.023*"just"'), (2, '0.006*"cant" + 0.006*"im" + 0.006*"ive" + 0.006*"chicken"'), (3, '0.044*"place" + 0.044*"houston" + 0.033*"2" + 0.023*"frenchys"'), (4, '0.051*"chicken" + 0.051*"frenchys" + 0.051*"fried" + 0.027*"back"')]
+FE2_Prior_Reviews
+[(0, '0.029*"chicken" + 0.023*"im" + 0.021*"fried" + 0.018*"good"'), (1, '0.017*"order" + 0.014*"just" + 0.014*"tenders" + 0.011*"chicken"'), (2, '0.017*"ordered" + 0.017*"instead" + 0.012*"food" + 0.012*"thru"'), (3, '0.022*"frenchys" + 0.020*"like" + 0.018*"chicken" + 0.016*"cant"'), (4, '0.048*"place" + 0.036*"2" + 0.025*"chicken" + 0.025*"houston"')]
+FE2_Post_Reviews
+[(0, '0.002*"chicken" + 0.002*"im" + 0.002*"like" + 0.002*"just"'), (1, '0.026*"chicken" + 0.021*"place" + 0.021*"2" + 0.018*"go"'), (2, '0.018*"like" + 0.015*"frenchys" + 0.015*"ive" + 0.015*"n"'), (3, '0.024*"chicken" + 0.024*"good" + 0.015*"will" + 0.015*"fried"'), (4, '0.027*"chicken" + 0.018*"im" + 0.016*"just" + 0.014*"fried"')]
+FE3_Prior_Reviews
+[(0, '0.015*"ordered" + 0.015*"instead" + 0.010*"food" + 0.010*"thru"'), (1, '0.027*"chicken" + 0.015*"just" + 0.014*"im" + 0.013*"good"'), (2, '0.026*"chicken" + 0.019*"houston" + 0.017*"place" + 0.015*"frenchys"'), (3, '0.022*"food" + 0.017*"like" + 0.017*"n" + 0.011*"wings"'), (4, '0.033*"fried" + 0.026*"chicken" + 0.020*"fries" + 0.017*"frenchys"')]
+FE3_Post_Reviews
+[(0, '0.018*"like" + 0.014*"ive" + 0.014*"frenchys" + 0.012*"n"'), (1, '0.014*"frenchys" + 0.014*"chicken" + 0.011*"never" + 0.011*"food"'), (2, '0.027*"chicken" + 0.022*"place" + 0.020*"2" + 0.015*"houston"'), (3, '0.031*"chicken" + 0.020*"fried" + 0.013*"fries" + 0.013*"good"'), (4, '0.024*"food" + 0.015*"soda" + 0.010*"wings" + 0.010*"fast"')]
+FE4_Prior_Reviews
+[(0, '0.030*"food" + 0.017*"good" + 0.017*"chicken" + 0.011*"fries"'), (1, '0.029*"chicken" + 0.018*"im" + 0.018*"place" + 0.015*"fried"'), (2, '0.018*"chicken" + 0.011*"order" + 0.010*"place" + 0.010*"biscuit"'), (3, '0.028*"chicken" + 0.019*"frenchys" + 0.014*"like" + 0.012*"fried"'), (4, '0.028*"fries" + 0.026*"little" + 0.025*"chicken" + 0.023*"fried"')]
+FE4_Post_Reviews
+[(0, '0.028*"chicken" + 0.021*"place" + 0.013*"food" + 0.009*"dirty"'), (1, '0.010*"go" + 0.006*"staff" + 0.006*"friendly" + 0.006*"seasoned"'), (2, '0.027*"chicken" + 0.013*"frenchys" + 0.013*"good" + 0.012*"im"'), (3, '0.032*"chicken" + 0.022*"fried" + 0.021*"fries" + 0.017*"little"'), (4, '0.023*"chicken" + 0.014*"food" + 0.014*"fried" + 0.012*"frenchys"')]
+FE5_Prior_Reviews
+[(0, '0.033*"chicken" + 0.015*"frenchys" + 0.014*"fried" + 0.013*"place"'), (1, '0.012*"wings" + 0.012*"chicken" + 0.010*"try" + 0.010*"place"'), (2, '0.016*"food" + 0.011*"order" + 0.009*"never" + 0.009*"n"'), (3, '0.021*"chicken" + 0.015*"frenchys" + 0.013*"fries" + 0.013*"food"'), (4, '0.041*"chicken" + 0.023*"good" + 0.021*"fried" + 0.019*"fries"')]
+FE5_Post_Reviews
+[(0, '0.029*"chicken" + 0.015*"frenchys" + 0.013*"place" + 0.010*"best"'), (1, '0.025*"chicken" + 0.016*"just" + 0.015*"good" + 0.013*"frenchys"'), (2, '0.027*"chicken" + 0.013*"old" + 0.011*"got" + 0.010*"like"'), (3, '0.051*"chicken" + 0.027*"fries" + 0.023*"fried" + 0.023*"good"'), (4, '0.014*"chicken" + 0.012*"food" + 0.012*"place" + 0.011*"wings"')]
